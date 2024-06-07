@@ -20,7 +20,7 @@ These instructions will help you get a copy of EvoOS up and running on your loca
 
 ### Installation
 
-1. Clone the EvoOS repository to your local machine: 'git clone https://github.com/your-username/evoos.git'
+1. Clone the EvoOS repository to your local machine: 'git clone https://github.com/Carson-We/evoos.git'
 
 2. Build the EvoOS source code using the provided build scripts or makefile.
 

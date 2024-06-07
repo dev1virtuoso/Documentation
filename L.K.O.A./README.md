@@ -73,7 +73,7 @@ Authors: Carson and Mr. Jonathan Tse
 For any inquiries or feedback regarding the project, feel free to contact us:
 
 - Carson
-  - Email: carsonw1125@icloud.com
+  - Email: carson.developer1125@gmail.com
 
 - Mr. Jonathan Tse
   - Email: 
