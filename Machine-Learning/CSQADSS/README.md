@@ -1,6 +1,9 @@
-### `drug.py` - Drug Classification
+> [!IMPORTANT]
+> This project is considered deprecated and abandoned. It may not be actively maintained or updated. Please use it with caution and consider alternative solutions for your needs.
 
-This Python script, `drug.py`, demonstrates drug classification using a logistic regression model.
+# Cantonese Spoken Question-Answer Dataset for Secondary School (CSQADSS)
+
+CSQADSS is designed for training and improving Cantonese language understanding and proficiency.
 
 ## License
 

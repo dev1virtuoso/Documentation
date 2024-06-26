@@ -6,8 +6,6 @@ This GitHub repository serves as a central location for storing the code of my c
 
 The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
 
-For a detailed understanding of the terms and conditions of the Mozilla Public License Version 2.0, please refer to the [LICENSE](LICENSE) file in this repository.
-
 ## Project Description
 
 The computer vision project focuses on developing advanced algorithms and techniques for analyzing and interpreting visual data using computers. Within this repository, you will find the code implementation for a variety of computer vision tasks, including image classification, object detection, and image segmentation.
@@ -18,9 +16,9 @@ To begin working with the computer vision project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ```shell
-   git clone https://github.com/Carson-We/Computer-Vision.git
-   ```
+   `
+   git clone https://github.com/Carson-We/Machine-Learning.git
+   `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
 
@@ -40,6 +38,6 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this computer vision project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:ycarson.developer1125@gmail.com).
+If you have any questions or suggestions regarding this computer vision project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
 
 Thank you for your interest and contributions to the project!

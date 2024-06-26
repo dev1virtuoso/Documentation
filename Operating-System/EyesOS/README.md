@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is considered deprecated and abandoned. It may not be actively maintained or updated. Please use it with caution and consider alternative solutions for your needs.
+
 # EyesOS
 
 # Project Goals
@@ -18,33 +21,38 @@ In terms of computing resources, Oureyes can be powered by a Raspberry Pi, which
 
 Overall, Oureyes offers significant benefits to individuals with disabilities, providing them with enhanced convenience and assistance to better navigate their daily lives. The combination of Raspberry Pi and the developer's computer ensures a balance between portability and computational power, allowing for a versatile and efficient user experience.
 
-# Installation Guide
+## License
 
-To install the Lane-Keeping and Obstacle-Avoidance System, follow these steps:
+The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
 
-1. Clone the project repository from GitHub:
-git clone https://github.com/Carson-We/EyesOS.git
+## Getting Started
 
-# Contribution Guidelines
+To begin working with the MakeCode project, follow these steps:
 
-We welcome contributions to the Oureyes project. If you would like to contribute, please adhere to the following guidelines:
+1. Clone the repository to your local machine:
 
-1. Fork the project repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request, providing a clear explanation of your contribution and its purpose.
+   `
+   git clone https://github.com/Carson-We/Operating-System.git
+   `
 
-# Version
-v0.2.0.1 (0201070224a)
+2. Install any necessary dependencies as outlined in the project's documentation.
 
-# Author and Contact Information
+3. Explore the directory.
 
-Authors: Carson
+4. Execute the scripts to run the operating system project on your own examples.
 
-For any inquiries or feedback regarding the project, feel free to contact us:
+## Contribution Guidelines
 
-- Carson
-  - Email: carson.developer1125@gmail.com
+Contributions to this operating system project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
-We appreciate your interest and support in enhancing the Autopilot system to achieve greater reliability and accuracy in lane-keeping and obstacle-avoidance tasks.
+- Fork the repository and create a new branch for your contributions.
+- Make your changes and thoroughly test them.
+- Submit a pull request describing the modifications and the rationale behind them.
+
+By contributing to this project, you agree to license your contributions under the terms of the Mozilla Public License Version 2.0.
+
+## Contact Information
+
+If you have any questions or suggestions regarding this operating system project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
+
+Thank you for your interest and contributions to the project!
