@@ -45,4 +45,4 @@ NeuralMorse 是一個使用神經網路進行文字和莫斯電碼轉換的創�
 媒體聯繫:
 Carson
 電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
-網站: [https://carson-we.github.io/Website/carson1125/](https://carson-we.github.io/Website/carson1125/)
+網站: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)

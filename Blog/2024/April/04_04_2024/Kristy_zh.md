@@ -15,4 +15,4 @@ K.R.I.S.T.Y. 系統旨在革新邏輯推理，在評估階段遇到了意想不�
 媒體聯繫:
 Carson
 電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
-網站: [https://carson-we.github.io/Website/carson1125/](https://carson-we.github.io/Website/carson1125/)
+網站: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)

@@ -44,4 +44,4 @@ NeuralMorse는 신경망을 사용하여 텍스트를 모스 부호로 변환하
 미디어 연락처:
 Carson
 이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
-웹사이트: [https://carson-we.github.io/Website/carson1125/](https://carson-we.github.io/Website/carson1125/)
+웹사이트: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
