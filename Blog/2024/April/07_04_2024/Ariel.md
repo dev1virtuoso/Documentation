@@ -34,7 +34,7 @@ For more information and downloads about A.R.I.E.L., please visit [Carson's webs
 About Carson:
 Carson is an individual developer from Hong Kong who focuses on creating innovative software and tools. He has years of experience in artificial intelligence and natural language processing and is dedicated to providing high-quality and practical solutions.
 
-Media Contact:
-Carson
-Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+Media Contact:<br>
+Carson<br>
+Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 Website: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
