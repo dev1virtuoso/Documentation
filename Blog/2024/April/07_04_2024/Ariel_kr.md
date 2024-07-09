@@ -34,7 +34,7 @@ A.R.I.E.L.에 대한 자세한 내용과 다운로드는 [Carson 웹사이트](h
 Carson에 대해서:
 Carson은 혁신적인 소프트웨어와 도구를 만드는 홍콩의 개인 개발자입니다. 그는 인공지능과 자연어 처리에 몇 년간 경험을 쌓았으며, 고품질이고 실용적인 솔루션을 제공하는 데 헌신하고 있습니다.
 
-미디어 연락처:
-Carson
-이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+미디어 연락처:<br>
+Carson<br>
+이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 웹사이트: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
