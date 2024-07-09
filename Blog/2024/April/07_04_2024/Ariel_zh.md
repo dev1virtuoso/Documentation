@@ -34,8 +34,7 @@ Carson表示，A.R.I.E.L.的推出將為使用者提供一個強大而靈活的�
 關於Carson：
 Carson是一位來自香港的個人開發者，專注於創建創新的軟體和工具。他在人工智慧和自然語言處理領域有多年的經驗，並致力於提供高品質和實用的解決方案。
 
-媒體聯繫:
-Carson
-電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
-網站: [https://carson-we.github.io/Website/carson1125/](https://carson-we.github.io/Website/carson1125/)
-[https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
+媒體聯繫:<br>
+Carson<br>
+電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
+網站: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
