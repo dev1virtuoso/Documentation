@@ -11,7 +11,7 @@
 ## 결론
 앞으로, 우리는 정기적인 업데이트를 통해 나의 개인 웹사이트를 지속적으로 개선하여 여러분이 나를 더 잘 알 수 있도록 할 것입니다.
 
-미디어 연락처:
-Carson
-이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+미디어 연락처:<br>
+Carson<br>
+이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 웹사이트: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
