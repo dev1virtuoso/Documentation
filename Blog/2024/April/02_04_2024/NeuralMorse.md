@@ -56,7 +56,7 @@ We would like to express our gratitude to the open-source community for their in
 
 NeuralMorse revolutionizes the way we interact with Morse code, providing an intelligent and efficient solution for translating text to Morse code and vice versa. Its neural network model, combined with its user-friendly interface, makes it a powerful tool for Morse code enthusiasts, communication enthusiasts, and developers alike. Try NeuralMorse today and explore the fascinating world of Morse code communication!
 
-Media Contact:
-Carson
-Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+Media Contact:<br>
+Carson<br>
+Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 Website: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
