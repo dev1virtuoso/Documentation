@@ -12,7 +12,7 @@ K.R.I.S.T.Y. 시스템은 논리 추론을 혁신하기 위해 설계되었으�
 
 A.R.I.E.L. 및 우리의 주요 프로젝트 개발에 대한 추가 업데이트는 공식 CDT 채널을 주시해 주세요.
 
-미디어 연락처:
-Carson
-이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+미디어 연락처:<br>
+Carson<br>
+이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 웹사이트: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
