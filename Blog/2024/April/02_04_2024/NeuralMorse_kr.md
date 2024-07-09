@@ -41,7 +41,7 @@ NeuralMorse를 시작하려면 다음의 간단한 단계를 따르십시오.
 
 NeuralMorse는 신경망을 사용하여 텍스트를 모스 부호로 변환하는 혁신적인 도구입니다. 사용자가 텍스트를 모스 부호로 쉽게 변환하고 모스 부호를 다시 텍스트로 쉽게 변환할 수 있는 사용하기 쉬운 인터페이스를 제공합니다. 당신이 모스 부호 매니아이거나 모스 부호로 통신해야 하는 경우 NeuralMorse가 도와드립니다. 지금 NeuralMorse를 사용하여 이 강력한 도구를 경험해보세요!
 
-미디어 연락처:
-Carson
-이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+미디어 연락처:<br>
+Carson<br>
+이메일: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 웹사이트: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
