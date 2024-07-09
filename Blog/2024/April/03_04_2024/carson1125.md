@@ -11,7 +11,7 @@ This website is designed to provide users with information and content related t
 ## Conclusion
 In the future, we will continue to improve my personal website through regular updates to better acquaint everyone with me.
 
-Media Contact:
-Carson
-Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+Media Contact:<br>
+Carson<br>
+Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 Website: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
