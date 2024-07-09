@@ -12,7 +12,7 @@ K.R.I.S.T.Y. 系統旨在革新邏輯推理，在評估階段遇到了意想不�
 
 有關 A.R.I.E.L. 和我們的旗艦項目開發的更多更新，請關注我們的官方 CDT 頻道。
 
-媒體聯繫:
-Carson
-電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+媒體聯繫:<br>
+Carson<br>
+電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 網站: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
