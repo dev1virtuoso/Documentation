@@ -12,7 +12,7 @@ We appreciate the patience and support of our customers, stakeholders, and the w
 
 For further updates on the development of A.R.I.E.L. and our flagship projects, please stay tuned to our official CDT channels.
 
-Media Contact:
-Carson
-Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+Media Contact:<br>
+Carson<br>
+Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 Website: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
