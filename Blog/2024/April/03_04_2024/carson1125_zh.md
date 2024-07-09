@@ -11,7 +11,7 @@
 ## 結論
 未來，我們將通過不斷更新來改良我的個人網站，以便更好地讓大家了解我。
 
-媒體聯繫:
-Carson
-電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+媒體聯繫:<br>
+Carson<br>
+電子郵件: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
 網站: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)
