@@ -34,7 +34,7 @@ This repository utilizes the MonoRepo approach, which involves integrating multi
 
 ## Contribution Guidelines
 
-Contributions to this computer vision project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
+Contributions to this documentation repository are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
 - Fork the repository and create a new branch for your contributions.
 - Make your changes and thoroughly test them.
