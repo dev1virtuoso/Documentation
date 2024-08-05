@@ -23,10 +23,11 @@ jobs:
         python generate_sitemap_md.py
 
     - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-       git config --local user.email "topics.copilot0n@icloud.com"
+        git config --local user.email "topics.copilot0n@icloud.com"
         git config --local user.name "Carson-We"
         git add sitemap.md
         git commit -m "Auto-generate sitemap.md"
-        GIT_TOKEN="${{ secrets.GH_TOKEN }}"
-        git push https://$GIT_TOKEN@github.com/Carson-We/Documentation.git
+        git push origin main
