@@ -1,6 +1,6 @@
-# Repository for Useful Command Project
+# Repository for {Template_folder} Project
 
-This GitHub repository serves as a central location for storing the code of my useful command project. The project is licensed under the Mozilla Public License Version 2.0.
+This GitHub repository serves as a central location for storing the code of my {template_folder} project. The project is licensed under the Mozilla Public License Version 2.0.
 
 ## License
 
@@ -8,7 +8,7 @@ The code in this repository is released under the [Mozilla Public License Versio
 
 ## Project Description
 
-The useful command project focuses on developing advanced algorithms and techniques. Within this repository, you will find the code implementation for a variety of useful command tasks.
+The {template_folder} project focuses on developing advanced algorithms and techniques. Within this repository, you will find the code implementation for a variety of {template_folder} tasks.
 
 ## Getting Started
 
@@ -17,18 +17,18 @@ To begin working with the computer vision project, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/Carson-We/Documentation.git
+   git clone https://github.com/Carson-We/{Template}.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
 
 3. Explore the directory, which contains the implementation of various computer vision algorithms and techniques.
 
-4. Execute the script to run the useful command project on your own images or datasets.
+4. Execute the script to run the {template_folder} project on your own images or datasets.
 
 ## Contribution Guidelines
 
-Contributions to this useful command project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
+Contributions to this {template_folder} project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
 - Fork the repository and create a new branch for your contributions.
 - Make your changes and thoroughly test them.
@@ -38,6 +38,6 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this useful command project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
+If you have any questions or suggestions regarding this {template_folder} project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
 
 Thank you for your interest and contributions to the project!
