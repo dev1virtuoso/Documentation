@@ -22,6 +22,8 @@ This GitHub repository serves as a central location for storing the documentatio
 
 By organizing and maintaining documentation within this GitHub repository, it becomes a valuable resource for developers, users, and contributors looking to understand, utilize, and contribute to the projects effectively.
 
+## [Table of contents](Content.md)
+
 ## License
 
 The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
