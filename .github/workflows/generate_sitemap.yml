@@ -24,8 +24,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "topics.copilot0n@icloud.com"
+        git config --local user.name "Carson-We"
         git add sitemap.md
         git commit -m "Auto-generate sitemap.md"
         git push
