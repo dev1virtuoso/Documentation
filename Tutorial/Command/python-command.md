@@ -11,5 +11,5 @@
 - `pip list`/`pip3 list`: Lists installed Python packages.
 - `pip show [package_name]`/`pip3 show [package_name]`: Displays information about a specific Python package.
 - `pip search [package_name]`/`pip3 search [package_name]`: Searches PyPI for a package.
-- `pip freeze`/`pip3 freeze`: Outputs a list of installed packages and their versions.
+- `pip freeze >requirements.txt`/`pip3 freeze >requirements.txt`: Outputs a list of installed packages and their versions.
 - `pip install -r requirements.txt`/`pip3 install -r requirements.txt`: Installs packages listed in a `requirements.txt` file.
