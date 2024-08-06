@@ -19,8 +19,8 @@ def generate_sitemap_md(directory, md_file):
         for idx, file_path in enumerate(file_list, start=1):
             rel_path = os.path.relpath(file_path, directory).replace("\\", "/")
             depth = rel_path.count('/')
-            indent = "  " * depth
-            file.write(f"{indent}{idx}. [{rel_path}]({rel_path})\n")
+            indent = "  " * depth 
+            file.write(f"{indent}{idx}. [{rel_path}]({rel_path}) <br>\n")
 
 repository_directory = "."
 sitemap_file_name = "sitemap.md"
