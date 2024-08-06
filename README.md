@@ -22,7 +22,7 @@ This GitHub repository serves as a central location for storing the documentatio
 
 By organizing and maintaining documentation within this GitHub repository, it becomes a valuable resource for developers, users, and contributors looking to understand, utilize, and contribute to the projects effectively.
 
-## [Table of contents](Content.md)
+## [Table of contents](sitemap.md)
 
 ## License
 
