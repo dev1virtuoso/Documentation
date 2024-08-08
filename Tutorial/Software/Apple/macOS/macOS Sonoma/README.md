@@ -150,8 +150,3 @@ Snapshots: `/Library/Application Support/com.apple.idleassetsd/snapshots`
 | 12318CCB-3F78-43B7-A854-EFDCCE5312CD.mov | snapshot/12318CCB-3F78-43B7-A854-EFDCCE5312CD.jpg | California | Earth | | |
 | 81337355-E156-4242-AAF4-711768D30A54.mov | snapshot/81337355-E156-4242-AAF4-711768D30A54.jpg | Australia | Earth | | |
 </details>
-|  功能  |    效果    | Markdown語法 |
-|:------:|:----------:|:------------:|
-|  粗體  |  **粗體**  |  `**粗體**`  |
-|  斜體  |   *斜體*   |   `*斜體*`   |
-| 刪除線 | ~~刪除線~~ | `~~刪除線~~` |
