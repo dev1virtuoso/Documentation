@@ -10,22 +10,6 @@ The code in this repository is released under the [Mozilla Public License Versio
 
 The tutorial project focuses on developing advanced algorithms and techniques. Within this repository, you will find the code implementation for a variety of tutorial tasks.
 
-## Getting Started
-
-To begin working with the computer vision project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   `
-   git clone https://github.com/Carson-We/Documentation.git
-   `
-
-2. Install any necessary dependencies as outlined in the project's documentation.
-
-3. Explore the directory, which contains the implementation of various computer vision algorithms and techniques.
-
-4. Execute the script to run the tutorial project on your own images or datasets.
-
 ## Contribution Guidelines
 
 Contributions to this tutorial project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
