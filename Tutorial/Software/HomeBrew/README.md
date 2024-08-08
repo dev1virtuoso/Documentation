@@ -6,26 +6,6 @@ This GitHub repository serves as a central location for storing the code of my H
 
 The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
 
-## Project Description
-
-The HomeBrew Tutorial focuses on developing advanced algorithms and techniques. Within this repository, you will find the code implementation for a variety of useful command tasks.
-
-## Getting Started
-
-To begin working with the computer vision project, follow these steps:
-
-1. Clone the repository to your local HomeBrewhine:
-
-   `
-   git clone https://github.com/Carson-We/Documentation.git
-   `
-
-2. Install any necessary dependencies as outlined in the project's documentation.
-
-3. Explore the directory, which contains the implementation of various computer vision algorithms and techniques.
-
-4. Execute the script to run the HomeBrew Tutorial on your own images or datasets.
-
 ## Contribution Guidelines
 
 Contributions to this HomeBrew Tutorial are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
