@@ -14,7 +14,6 @@ def generate_sitemap_md(directory, md_file):
                     if not os.path.basename(full_path).startswith('.'):
                         file_list.append(full_path)
 
-        # Sort the file list alphabetically
         file_list.sort(key=lambda x: os.path.basename(x))
 
         for idx, file_path in enumerate(file_list, start=1):
