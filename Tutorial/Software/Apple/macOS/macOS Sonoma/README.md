@@ -11,8 +11,8 @@ Snapshots: `/Library/Application Support/com.apple.idleassetsd/snapshots`
 
 ### Files
 
-| File name | Snapshot | Title | Category | Link(YouTube) | Link(Apple) |
-|:----------|:---------|:------|:-------- |:------------- |:----------- |
+| File name | Snapshot | Title | Category | Link(YouTube) | | Link(YouTube)(original) | Link(Apple) |
+|:----------|:---------|:------|:-------- |:------------- |:------------------------- |:----------- |
 | FE876489-CBD5-479B-A8F0-1B67F0741CEA.mov | ![Sonoma Horizon](snapshot/asset-preview-FE876489-CBD5-479B-A8F0-1B67F0741CEA.jpg) | Sonoma Horizon | Landscape | [Link]() | [Link](https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/W010_C003_F01_third_sdr_4k_qp24_15Mbps_240p_t2160_tsa.mov) |
 | 94DAB450-A650-4DFC-99B2-A0F0D8AD6649.mov | ![Sonoma Evening](snapshot/asset-preview-94DAB450-A650-4DFC-99B2-A0F0D8AD6649.jpg) | Sonoma Evening | Landscape | [Link]() | [Link](https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/S013_C001_F01_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov) |
 | 097CA871-A1C2-40F7-97F0-EFAABF555BBC.mov | ![Sonoma Clouds](snapshot/asset-preview-097CA871-A1C2-40F7-97F0-EFAABF555BBC.jpg) | Sonoma Clouds | Landscape | [Link]() | [Link](https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/S011_C003_F01_FRC240fps_sdr_4k_qp18_240p_t2160_grover401_tsa.mov) |
