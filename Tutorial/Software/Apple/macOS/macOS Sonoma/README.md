@@ -1,13 +1,13 @@
-# macOS Sonoma Screen Saver(Dynamic Wallpapers)
+# macOS Sonoma Screen Saver(Aerial)
 
-## What is macOS Sonoma Screen Saver(Dynamic Wallpapers)?
+## What is macOS Sonoma Screen Saver(Aerial)?
 
 macOS Sonoma Screen Saver is a [New slow-motion screen savers of breathtaking locations from around the world look beautiful on your large Mac display. When you log in, they seamlessly become your desktop wallpaper. (By Apple's website)](https://www.apple.com/macos/sonoma/)
 
 ## Path
 
-Screen Saver: `/Library/Application Support/com.apple.idleassetsd/Customer/4KSDR240FPS/`
-Snapshots: `/Library/Application Support/com.apple.idleassetsd/snapshots`
+Screen Saver(Aerial): `/Library/Application Support/com.apple.idleassetsd/Customer/4KSDR240FPS/`
+Snapshots(Aerial): `/Library/Application Support/com.apple.idleassetsd/snapshots`
 
 ### Files
 
