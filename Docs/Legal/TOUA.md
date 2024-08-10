@@ -99,6 +99,8 @@ I provide access to international information on our products and may therefore 
 # Opinions and information
 Any opinions you provide on our products are considered non-confidential information and I am free to use the information without restriction.
 
+If you have any questions or need further assistance, please feel free to contact me.
+
 The information contained in its products may change at any time without prior notice.<br>
 Copyright © 2023-2024 Carson Wu. All rights reserved.<br>
-Updated by me on August 10, 2024
+Updated by me on August 11, 2024
