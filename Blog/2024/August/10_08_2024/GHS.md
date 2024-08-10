@@ -1,4 +1,4 @@
-#My open source journey
+# My open source journey
 
 ## A new step on GitHub Sponsors
 
