@@ -10,7 +10,7 @@
 
 개발자로서 저는 기술 혁신과 지식 공유를 위한 오픈 소스 커뮤니티의 중요성을 알고 있습니다. 그러므로 저는 제가 진행하고 있는 오픈소스 프로젝트의 질적 향상뿐만 아니라 다른 오픈소스 프로젝트에도 적극적으로 참여하고 지원하기 위해 계속해서 노력할 것을 약속드립니다.
 
-미디어 문의:
-Carson
-이메일: carson.developer1125@gmail.com
+미디어 문의:<br>
+Carson<br>
+이메일: carson.developer1125@gmail.com<br>
 웹사이트: https://carson-we.github.io/Website/carson1125/carson1125/
