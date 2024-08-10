@@ -49,6 +49,10 @@ Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
 </ol>
 <h3>GitHub Stats</h3>
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Carson-We)](https://github.com/anuraghazra/github-readme-stats)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stat](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Carson-We)](https://github-readme-stats.vercel.app/api?username=Carson-We)
+
+- [github-readme-streak-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stat](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D))
