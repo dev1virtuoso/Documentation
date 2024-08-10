@@ -10,7 +10,7 @@ This decision means that I will use 100% of the proceeds to develop and maintain
 
 As a developer, I know the importance of open source communities for technological innovation and shared knowledge. Therefore, I promise to continue working hard not only to improve the quality of my open source projects, but also to actively participate in and support other open source projects.
 
-Media Contact:
-Carson
-Email: carson.developer1125@gmail.com
+Media Contact:<br>
+Carson<br>
+Email: carson.developer1125@gmail.com<br>
 Website: https://carson-we.github.io/Website/carson1125/carson1125/
