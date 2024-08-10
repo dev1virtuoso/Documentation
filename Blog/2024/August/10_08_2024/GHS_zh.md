@@ -10,7 +10,7 @@
 
 作為一個開發者，我深知開源社區對於技術創新和共享知識的重要性。因此，我承諾將持續努力，不僅提高我的開源項目的質量，還將積極參與和支持其他開源項目。
 
-媒體聯繫：
-Carson
-電子郵件：carson.developer1125@gmail.com
+媒體聯繫：<br>
+Carson<br>
+電子郵件：carson.developer1125@gmail.com<br>
 網站：https://carson-we.github.io/Website/carson1125/carson1125/
