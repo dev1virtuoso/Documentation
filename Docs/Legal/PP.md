@@ -20,4 +20,6 @@ This Privacy Policy describes our policies and procedures on the collection, use
 6. Privacy Policy Modification:
  We may update this privacy policy from time to time. We recommend that you review this page regularly to ensure that you have the latest understanding of how we process your information.
 
-Last updated date: August 10, 2024
+If you have any questions or need further assistance, please feel free to contact me.
+
+Updated by me on August 11, 2024
