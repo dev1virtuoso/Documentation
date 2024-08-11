@@ -8,4 +8,4 @@ All versions are required to prominently feature my name and other identifiable 
 
 If you have any questions or need further assistance, please feel free to contact me.
 
-Updated by me on August 11, 2024
+Updated by Carson Wu on August 11, 2024
