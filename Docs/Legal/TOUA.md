@@ -37,9 +37,10 @@ My obligations (if any) with respect to its products and services are only gover
 I may change any of the products or services offered by my products or the applicable prices of any such products or services at any time without prior notice. The information on our products and services may be out of date; I do not make any commitment to update the information on our products about such products and services.
 The following terms also govern and apply to your use of our products and are incorporated by reference into these Terms of Use:
 - [Software licensing information](https://github.com/Carson-We/Documentation/blob/main/Docs/Legal/PP.md)
+
 Each policy may be revised from time to time and will take effect immediately upon such changes to its products.
 
-Accounts, Passwords and Security
+# Accounts, Passwords and Security
 Certain functions or services provided on or through its products may require you to open an account (including setting an account name and password). You are solely responsible for maintaining the confidentiality of the account information you hold (including your password) and for any and all activities that occur under your account as a result of your failure to keep the information secure and confidential. You agree to notify me immediately of any unauthorized use of your account or password, or any other breach of security. If you fail to ensure the security and confidentiality of your account information and your account, password or accounts are accessed by others, resulting in losses to you or any other user or visitor of our products, you may be held responsible for the losses.
 
 You may not use anyone else's password or account at any time without the express permission and consent of the holder of that account, password or account. I cannot and will not be responsible for any loss or damage arising from your inability to perform such obligations.
