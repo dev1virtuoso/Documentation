@@ -8,7 +8,8 @@ All versions are required to prominently feature my name and other identifiable 
 
 | Difference | Personal Version | Company Version |
 | --- | --- | --- |
-| Price | Free (You can donate if you wish, starting from at least US$1) | US$500/month (GitHub will charge 6% from it) |
+| Usage | Personal, educational, and non-commercial use | Commercial use, team use, or profit from products derived from your own products |
+| Price | Free (Donations optional, starting from at least US$1) | US$500/month (GitHub will charge 6% from it) |
 | License | Mozilla Public License Version 2.0 | Mozilla Public License Version 2.0 & Company License |
 | Authorship | All versions are required to prominently feature my name and other identifiable authorship in any derived content. | All versions are required to prominently feature my name and other identifiable authorship in any derived content. |
 
