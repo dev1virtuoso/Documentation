@@ -6,6 +6,12 @@ According to my charging policy, the usage of all term products is as follows:
 
 All versions are required to prominently feature my name and other identifiable authorship in any derived content.
 
+| Difference | Personal Version | Company Version |
+| --- | --- | --- |
+| Price | Free (You can donate if you wish, starting from at least US$1) | US$500/month (GitHub will charge 6% from it) |
+| License | Mozilla Public License Version 2.0 | Mozilla Public License Version 2.0 & Company License |
+| Authorship | All versions are required to prominently feature my name and other identifiable authorship in any derived content. | All versions are required to prominently feature my name and other identifiable authorship in any derived content. |
+
 If you have any questions or need further assistance, please feel free to contact me.
 
 Updated by Carson Wu on August 11, 2024
