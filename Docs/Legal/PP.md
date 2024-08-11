@@ -22,4 +22,4 @@ This Privacy Policy describes our policies and procedures on the collection, use
 
 If you have any questions or need further assistance, please feel free to contact me.
 
-Updated by me on August 11, 2024
+Updated by Carson Wu on August 11, 2024
