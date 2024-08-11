@@ -36,7 +36,7 @@ My obligations (if any) with respect to its products and services are only gover
 
 I may change any of the products or services offered by my products or the applicable prices of any such products or services at any time without prior notice. The information on our products and services may be out of date; I do not make any commitment to update the information on our products about such products and services.
 The following terms also govern and apply to your use of our products and are incorporated by reference into these Terms of Use:
-- Software licensing information
+- [Software licensing information](https://github.com/Carson-We/Documentation/blob/main/Docs/Legal/PP.md)
 Each policy may be revised from time to time and will take effect immediately upon such changes to its products.
 
 Accounts, Passwords and Security
@@ -45,7 +45,7 @@ Certain functions or services provided on or through its products may require yo
 You may not use anyone else's password or account at any time without the express permission and consent of the holder of that account, password or account. I cannot and will not be responsible for any loss or damage arising from your inability to perform such obligations.
 
 # Privacy
-My privacy policy applies to the use of our products and its terms are incorporated by reference into these Terms of Use. You can click here to view my privacy policy. In addition, by using its products, you acknowledge and agree that Internet transmissions are not absolutely private or secure. You understand that any messages or information you send to our products may be read or intercepted by others, even if there is a special announcement stating that certain transmissions (such as credit card information) will be encrypted.
+My privacy policy applies to the use of our products and its terms are incorporated by reference into these Terms of Use. You can click [here](https://github.com/Carson-We/Documentation/blob/main/Docs/Legal/PP.md) to view my privacy policy. In addition, by using its products, you acknowledge and agree that Internet transmissions are not absolutely private or secure. You understand that any messages or information you send to our products may be read or intercepted by others, even if there is a special announcement stating that certain transmissions (such as credit card information) will be encrypted.
 
 Other affiliated products and links to affiliated products
 Our products may contain links to products owned by other independent third parties (hereinafter referred to as "Linked Products"). The products under these links are provided for the convenience of visitors only. The products under these links are not under my control. I am not responsible for and do not endorse the content of the products under these links, including any information or materials contained in the products under these links. You must make your own judgment when interacting with products under these links.
