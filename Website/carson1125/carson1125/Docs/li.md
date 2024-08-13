@@ -25,4 +25,4 @@ For more information about the Mozilla Public License, please visit the [officia
 
 ### Mozilla Public License (English Version)
 
-- [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/Docs/Mozilla%20Public%20License.pdf)
+- [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
