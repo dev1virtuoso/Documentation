@@ -25,4 +25,4 @@ Mozilla Public License（MPL）是由 Mozilla Foundation 開發的自由開源�
 
 ### Mozilla Public License（英文版）
 
-- [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/Docs/Mozilla%20Public%20License.pdf)
+- [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
