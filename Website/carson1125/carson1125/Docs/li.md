@@ -13,7 +13,7 @@
 
 For inquiries, please contact Carson: <carson.developer1125@gmail.com>
 
-# Mozilla Public License
+## Mozilla Public License
 
 All content and components on this website are licensed under the Mozilla Public License.
 

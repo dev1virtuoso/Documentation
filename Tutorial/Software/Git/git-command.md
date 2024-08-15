@@ -1,6 +1,7 @@
 # Useful Git Commands
 
 ## Configuration
+
 - Configure user information for all local repositories:
   `
   git config --global user.name "Your_Name"
@@ -8,18 +9,21 @@
   `
 
 ## Repository Initialization
+
 - Initialize a new Git repository:
   `
   git init
   `
   
 ## Cloning
+
 - Clone a repository:
   `
   git clone [repository_url]
   `
 
 ## Staging and Committing
+
 - Add changes to the staging area:
   `
   git add [file]
@@ -30,6 +34,7 @@
   `
 
 ## Branching
+
 - Create a new branch:
   `
   git branch [branch_name]
@@ -44,12 +49,14 @@
   `
 
 ## Merging
+
 - Merge a branch into the current branch:
   `
   git merge [branch_name]
   `
 
 ## Remote Repositories
+
 - Add a remote repository:
   `
   git remote add origin [remote_repository_url]
@@ -60,6 +67,7 @@
   `
 
 ## Updating and Publishing
+
 - Update local repository with changes from the remote repository:
   `
   git pull
@@ -70,18 +78,21 @@
   `
 
 ## Logging and History
+
 - Show commit history:
   `
   git log
   `
 
 ## Tagging
+
 - Tag a specific commit:
   `
   git tag [tag_name] [commit_id]
   `
 
 ## Undoing Changes
+
 - Discard changes in working directory:
   `
   git checkout -- [file]
@@ -92,6 +103,7 @@
   `
 
 ## Miscellaneous
+
 - Show the status of working directory and staging area:
   ``
   git status

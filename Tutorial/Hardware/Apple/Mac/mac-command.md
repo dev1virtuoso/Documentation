@@ -1,6 +1,6 @@
 # Useful Mac Commands
 
-# Time Machine 
+## Time Machine
 
 - Time Machine accelerate
 `
@@ -12,6 +12,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
 `
 
 ## File System
+
 - List files and directories in the current directory:
   `
   ls
@@ -26,6 +27,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## System Information
+
 - Show system information:
   `
   system_profiler
@@ -36,6 +38,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## Network
+
 - Display network configuration:
   `
   ifconfig
@@ -46,6 +49,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## Processes
+
 - List running processes:
   `
   ps
@@ -56,6 +60,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## Package Management
+
 - Install Homebrew (package manager for macOS):
   `
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -66,12 +71,14 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## Disk Space
+
 - Display disk space usage:
   `
   df -h
   `
 
 ## Terminal
+
 - Clear the terminal screen:
   `
   clear
@@ -82,6 +89,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## User Management
+
 - Add a new user:
   `
   sudo sysadminctl -addUser [username]
@@ -92,6 +100,7 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
 
 ## Miscellaneous
+
 - Open a file or directory in Finder:
   `
   open [file_path]
@@ -100,3 +109,4 @@ sudo sysctl debug.lowpri_throttle_enabled=1
   `
   shutdown -h +60 "Shutting down in 1 hour"
   `
+  
