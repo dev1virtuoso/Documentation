@@ -1,9 +1,11 @@
 # Carson的技術部落格
 
 ## 簡介
+
 歡迎來到我的技術部落格，這裡會分享我最新的項目更新和技術見解。
 
 ## 目錄
+
 - 簡介
 - 目錄
 - 版權
@@ -23,4 +25,4 @@
 9. 對於因使用本網站內容或存取第三方連結而產生的任何損失或損害，本網站不承擔任何責任。
 10. 本版權聲明可能隨時變更或更新。請定期檢查最新版本。
 
-如有疑問，請聯絡Carson：carson.developer1125@gmail.com
+如有疑問，請聯絡Carson：[carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)

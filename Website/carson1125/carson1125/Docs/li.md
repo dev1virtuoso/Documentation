@@ -11,7 +11,7 @@
 9. This website is not liable for any loss or damage incurred from the use of the content on this website or the access of third-party links.
 10. This copyright notice is subject to change or update at any time. Please check the latest version regularly.
 
-For inquiries, please contact Carson: <carson.developer1125@gmail.com>
+For inquiries, please contact Carson: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
 
 ## Mozilla Public License
 
@@ -26,3 +26,4 @@ For more information about the Mozilla Public License, please visit the [officia
 ### Mozilla Public License (English Version)
 
 - [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
+- [txt](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/License)

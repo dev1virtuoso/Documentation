@@ -12,5 +12,5 @@ As a developer, I know the importance of open source communities for technologic
 
 Media Contact:<br>
 Carson<br>
-Email: carson.developer1125@gmail.com<br>
-Website: https://carson-we.github.io/Website/carson1125/carson1125/
+Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)<br>
+Website: [https://carson-we.github.io/Website/carson1125/carson1125/](https://carson-we.github.io/Website/carson1125/carson1125/)

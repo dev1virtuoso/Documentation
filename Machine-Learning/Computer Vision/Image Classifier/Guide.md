@@ -1,9 +1,13 @@
+# Guide
+
 The code performs binary image classification using a CNN model. Here is a breakdown of the steps and the rationale behind using this approach:
 
 ## Purpose of the Code
+
 The code aims to train a CNN model to classify images into two classes (binary classification).
 
 ## Steps
+
 1. Import the necessary libraries and modules such as NumPy, Pandas, Matplotlib, Seaborn, and TensorFlow.
 2. Define the directory path where the images are located, the desired image size, and the batch size for training.
 3. Create an image data generator using `ImageDataGenerator` to preprocess the images by rescaling their pixel values and splitting the dataset into training and validation subsets.
@@ -15,6 +19,7 @@ The code aims to train a CNN model to classify images into two classes (binary c
 9. Plot and visualize the training and validation accuracy and loss using Matplotlib.
 
 ## Rationale for Using this Approach
+
 1. **Convolutional Neural Network**: CNNs are effective for image classification tasks as they can capture spatial relationships and hierarchical features in images.
 2. **ImageDataGenerator**: The `ImageDataGenerator` allows for efficient preprocessing and augmentation of image data, improving model generalization and performance.
 3. **Batch Training**: Training the model in batches helps to handle large datasets, reduces memory requirements, and allows for parallel processing.

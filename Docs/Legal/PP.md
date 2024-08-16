@@ -1,4 +1,4 @@
-Privacy policy
+# Privacy policy
 
 This Privacy Policy describes our policies and procedures on the collection, use and sharing of your personal information. This includes what we do with the information you provide to us, how we use it and the measures we take to protect it.
 

@@ -1,6 +1,6 @@
 # 發佈（2024年4月7日）
 
-# A.R.I.E.L.：為學習而設計的先進檢索與推論引擎
+## A.R.I.E.L.：為學習而設計的先進檢索與推論引擎
 
 香港 - 本地個人開發者Carson於今日宣布推出一個創新的軟體工具，名為A.R.I.E.L.（Advanced Retrieval and Inference Engine for Learning）。A.R.I.E.L.是一個整合了檢索、生成和整合模組的強大引擎，旨在提供高效的資訊檢索和即時生成回答的能力。
 

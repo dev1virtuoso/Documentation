@@ -30,8 +30,6 @@ To begin working with the {template} project, follow these steps:
 
 ## Contribution Guidelines
 
-## Contribution Guidelines
-
 Contributions to this {template} project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
 - Fork the repository and create a new branch for your contributions.

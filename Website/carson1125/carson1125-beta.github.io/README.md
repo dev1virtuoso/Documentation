@@ -1,6 +1,5 @@
 # carson1125-beta.git.io
 
-
 > [!IMPORTANT]
 > This repository is archived on 5 April 2024 03:30 (UTC+08:00).
 

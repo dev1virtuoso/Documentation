@@ -1,4 +1,5 @@
 # Mac-Develop-Environment
+
 Mac-Develop-Environment can help automate the setup of your Mac development environment.
 
 ## Getting Started

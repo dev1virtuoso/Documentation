@@ -1,9 +1,13 @@
+# Guide
+
 The provided code is used to train a recognition model using a CNN. Here is a breakdown of the steps and the rationale behind using this approach:
 
 ## Purpose of the Code
+
 The code aims to train a recognition model using a CNN architecture to classify images into three different classes.
 
 ## Steps
+
 1. Import the necessary libraries and modules from TensorFlow and Keras.
 2. Define the directory path where the training data is located, the batch size for training, the desired image size, and the number of classes.
 3. Create a sequential model using the `Sequential` class from Keras.
@@ -16,6 +20,7 @@ The code aims to train a recognition model using a CNN architecture to classify 
 10. Save the trained model in the HDF5 format using the `save` method.
 
 ## Rationale for Using this Approach
+
 1. **Convolutional Neural Network**: CNNs are well-suited for image classification tasks as they can capture spatial hierarchies and patterns in images.
 2. **Sequential Model**: The `Sequential` API allows for a straightforward and intuitive way to construct a model by sequentially adding layers.
 3. **Dropout Regularization**: The addition of dropout layers helps to prevent overfitting by randomly dropping out neurons during training, thus reducing interdependencies between neurons.

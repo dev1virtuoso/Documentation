@@ -3,7 +3,7 @@
 
 # EyesOS
 
-# Project Goals
+## Project Goals
 
 The goal of the Oureyes project is to provide enhanced convenience and assistance to individuals with disabilities. The intelligent eyewear, Oureyes, utilizes the M2 Max chip and features two cameras (alpha Camera and beta Camera) and an ultrasonic rangefinder, enabling stereoscopic vision and depth perception. Additionally, it includes a speaker for audio output and supports Bluetooth connectivity for data transfer and control with other devices.
 

@@ -1,6 +1,6 @@
 # RELEASE (April 7, 2024)
 
-# A.R.I.E.L.: An Advanced Retrieval and Inference Engine for Learning
+## A.R.I.E.L.: An Advanced Retrieval and Inference Engine for Learning
 
 Hong Kong - Local individual developer Carson announced today the launch of an innovative software tool called A.R.I.E.L. (Advanced Retrieval and Inference Engine for Learning). A.R.I.E.L. is a powerful engine that integrates retrieval, generation, and integration modules, aiming to provide efficient information retrieval and real-time answer generation capabilities.
 
