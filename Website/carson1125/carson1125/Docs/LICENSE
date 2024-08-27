@@ -1,4 +1,4 @@
-Carson Open Source License with Mozilla Public License 2.0Carson Open Source License with Mozilla Public License 2.0
+Carson Open Source License with Mozilla Public License 2.0
 
 Copyright (c) Carson 2023-2024
 
@@ -29,7 +29,7 @@ Mozilla Public License 2.0: https://www.mozilla.org/MPL/2.0/
 - You have the right to release the original code and modified versions in an open-source form.
 - You are free to use, modify, and distribute the software as long as this license is adhered to.
 
-Constraints and Requirements
+7. Constraints and Requirements
 
 - Modified code must be released under the same license terms.
 - Detailed documentation regarding modifications to the original code is mandatory.
@@ -37,14 +37,14 @@ Constraints and Requirements
 - Endorsement or recommendation in the original author's name is prohibited.
 - Restricting others from using, modifying, and distributing modified code in a closed-source manner is not allowed.
 
-Disclaimer
+8. Disclaimer
 
 The software is provided "as is," without any express or implied warranties. In no event shall the author or copyright holder be liable for any claims, damages, or other liabilities.
 
-Termination
+9. Termination
 
 Violation of the terms of this license will result in the immediate termination of your rights, requiring you to cease using, modifying, and distributing the software.
 
-Final Terms
+10. Final Terms
 
 This license constitutes the complete agreement between you and the original author regarding the software, superseding any prior oral or written agreements.
