@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Mountain Lion Project** introduces an advanced smart wearable system designed to redefine user experiences. Featuring a custom lightweight operating system built on the Linux kernel, this system is optimized for wearables, ensuring efficiency, stability, and scalability. With a range of cutting-edge features such as a transparent HUD, adjustable corrective lenses, dual Alpha and Beta lenses, bone conduction headphones, spatial audio speakers, infrared cameras, an external HUD, and seamless connectivity options, this system pushes the boundaries of wearable technology.
+The Mountain Lion Project introduces an advanced smart wearable system designed to redefine user experiences. Featuring a custom lightweight operating system built on the Linux kernel, this system is optimized for wearables, ensuring efficiency, stability, and scalability. With a range of cutting-edge features such as a transparent HUD, adjustable corrective lenses, dual Alpha and Beta lenses, bone conduction headphones, spatial audio speakers, infrared cameras, an external HUD, and seamless connectivity options, this system pushes the boundaries of wearable technology.
 
 ## Innovation
 
@@ -27,3 +27,11 @@ The custom lightweight operating system based on the Linux kernel ensures rapid 
 ## Other Considerations
 
 The Mountain Lion Project emphasizes user comfort, safety, and convenience with features such as wireless charging, advanced biometric security, immersive sound experiences, and real-time environmental perception. By combining advanced hardware components with intelligent software algorithms, this smart wearable system sets a new standard in wearable technology, providing users with a rich, convenient, and secure experience.
+
+## Blueprint
+
+[First draft of Project Mountain Lion](media/)
+[Second draft of Project Mountain Lion](media/)
+[Final draft of Project Mountain Lion](media/)
+
+Document Identification Code:20240827_04
