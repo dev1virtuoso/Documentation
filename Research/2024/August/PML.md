@@ -30,8 +30,7 @@ The Mountain Lion Project emphasizes user comfort, safety, and convenience with 
 
 ## Blueprint
 
-[First draft of Project Mountain Lion](media/)
-[Second draft of Project Mountain Lion](media/)
-[Final draft of Project Mountain Lion](media/)
+[Project Mountain Lion v0.5](media/PML0_5.pdf)
+[Project Mountain Lion v1.0](media/PML1_0.pdf)
 
 Document Identification Code:20240827_04
