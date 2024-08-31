@@ -22,6 +22,8 @@ This GitHub repository serves as a central location for storing the documentatio
 
 By organizing and maintaining documentation within this GitHub repository, it becomes a valuable resource for developers, users, and contributors looking to understand, utilize, and contribute to the projects effectively.
 
+## [Table of Content](content.md)
+
 ## License
 
 This repository is licensed under the Carson Open Source License, which provides users and contributors with the freedom to copy, modify, distribute, and sublicense the software under certain conditions. The project is governed by the Mozilla Public License Version 2.0 in addition to the terms outlined in this license.

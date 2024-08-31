@@ -12,7 +12,7 @@ Welcome to my technical blog, where I share updates and insights on my latest pr
 
 ## Copyright
 
-Copyright © 2024 Carson. All rights reserved.
+Copyright © 2024 Carson Wu. All rights reserved.
 
 1. All content on this website, including but not limited to text, images, videos, audio, scripts, and other materials, is protected by copyright.
 2. All content is for personal use only and may not be used for commercial purposes. Without explicit written permission from the copyright owner, no content may be used for commercial purposes.
@@ -26,4 +26,3 @@ Copyright © 2024 Carson. All rights reserved.
 10. This copyright statement is subject to change or update at any time. Please check regularly for the latest version.
 
 For inquiries, please contact Carson at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
-
