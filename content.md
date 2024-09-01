@@ -26,29 +26,29 @@
   - 2024
     - April
       - 02_04_2024
-        - [NeuralMorse_zh.md](/Blog/2024/April/02_04_2024/NeuralMorse_zh.md)
-        - [NeuralMorse.md](/Blog/2024/April/02_04_2024/NeuralMorse.md)
+        - [發佈（2024年4月2日）](/Blog/2024/April/02_04_2024/20240402_01.md)
+        - [RELEASE(2 April 2024)](/Blog/2024/April/02_04_2024/20240402_02.md)
       - 03_04_2024
-        - [carson1125_zh.md](/Blog/2024/April/03_04_2024/carson1125_zh.md)
-        - [carson1125.md](/Blog/2024/April/03_04_2024/carson1125.md)
+        - [發佈（2024年4月3日）](/Blog/2024/April/03_04_2024/20240403_01.md)
+        - [Release (April 3, 2024)](/Blog/2024/April/03_04_2024/20240403_02.md)
       - 04_04_2024
-        - [Kristy_zh.md](/Blog/2024/April/04_04_2024/Kristy_zh.md)
-        - [Kristy.md](/Blog/2024/April/04_04_2024/Kristy.md)
+        - [邏輯推理系統開發遭遇挫折](/Blog/2024/April/04_04_2024/20240404_01.md)
+        - [Announces Setback in Logic-Based Inference System Development](/Blog/2024/April/04_04_2024/20240404_02.md)
       - 07_04_2024
-        - [Ariel_zh.md](/Blog/2024/April/07_04_2024/Ariel_zh.md)
-        - [Ariel.md](/Blog/2024/April/07_04_2024/Ariel.md)
+        - [發佈（2024年4月7日）](/Blog/2024/April/07_04_2024/20240407_01.md)
+        - [RELEASE (April 7, 2024)](/Blog/2024/April/07_04_2024/20240402_02.md)
     - August
       - 10_08_2024
-        - [GHS_zh.md](/Blog/2024/August/10_08_2024/GHS_zh.md)
-        - [GHS.md](/Blog/2024/August/10_08_2024/GHS_zh.md)
+        - [我的開源之旅](/Blog/2024/August/10_08_2024/20240810_01.md)
+        - [My open source journey](/Blog/2024/August/10_08_2024/20240810_02.md)
     - July
       - 10_07_2024
-        - [10072024_zh.md](/Blog/2024/July/10_07_2024/10072024_zh.md)
-        - [10072024.md](/Blog/2024/July/10_07_2024/10072024.md)
+        - [Utility-beta.github.io](/Blog/2024/July/10_07_2024/20240710_01.md)
+        - [Utility-beta.github.io](/Blog/2024/July/10_07_2024/20240710_02.md)
     - June
       - 28_06_2024
-        - [1150_002-290624r_zh.md](/Blog/2024/June/28_06_2024/1150_002-290624r_zh.md)
-        - [1150_004-290624r.md](/Blog/2024/June/28_06_2024/1150_004-290624r.md)
+        - [發佈（2024年6月29日）](/Blog/2024/June/28_06_2024/20240628_01.md)
+        - [Release (June 29, 2024)](/Blog/2024/June/28_06_2024/20240628_02.md)
   - [README_kr.md](/Blog/README_kr.md)
   - [README_zh.md](/Blog/README_zh.md)
   - [README.md](/Blog/README.md)
@@ -198,17 +198,17 @@
 - Research
   - 2024
     - August
-      - [FCRS.md](/Research/2024/August/FCRS.md)
-      - [FPRS.md](/Research/2024/August/FPRS.md)
+      - [Facial Recognition System Innovation Proposal](/Research/2024/August/20240827_01.md)
+      - [FPRS.md](/Research/2024/August/20240827_02.md)
       - HWTB
-        - [HWTB_zh.md](/Research/2024/August/HWTB/HWTB_zh.md)
-        - [HWTB.md](/Research/2024/August/HWTB/HWTB_zh.md)
-      - [IRRS.md](/Research/2024/August/IRRS.md)
+        - [HWTB.md](/Research/2024/August/HWTB/20240828_01.md)
+        - [HWTB_zh.md](/Research/2024/August/HWTB/20240828_02.md)
+      - [IRRS.md](/Research/2024/August/20240827_03.md)
       - media
         - [PML0_5.pdf](/Research/2024/August/media/PML0_5.pdf)
         - [PML1_0.pdf](/Research/2024/August/media/PML1_0.pdf)
-      - [PML.md](/Research/2024/August/PML.md)
-      - [PPRS.md](/Research/2024/August/PPRS.md)
+      - [PML.md](/Research/2024/August/20240827_04.md)
+      - [PPRS.md](/Research/2024/August/20240827_05.md)
 - [RULES.md](/RULES.md)
 - [SECURITY.md](/SECURITY.md)
 - Template
