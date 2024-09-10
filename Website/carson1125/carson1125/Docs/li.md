@@ -13,17 +13,17 @@
 
 For inquiries, please contact Carson: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
 
-## Mozilla Public License
+## The Carson Open Source License (CEOSL)
 
-All content and components on this website are licensed under the Mozilla Public License.
+All content and components on this website are licensed under the The Carson Open Source License (CEOSL).
 
-### About Mozilla Public License
+### About The Carson Open Source License (CEOSL)
 
-The Mozilla Public License (MPL) is a free and open-source software license developed by the Mozilla Foundation. It is a permissive license that allows you to use, modify, and distribute the licensed software under certain conditions.
+The The Carson Open Source License (CEOSL) (MPL) is a free and open-source software license developed by the Mozilla Foundation. It is a permissive license that allows you to use, modify, and distribute the licensed software under certain conditions.
 
-For more information about the Mozilla Public License, please visit the [official MPL website](https://www.mozilla.org/MPL/).
+For more information about the The Carson Open Source License (CEOSL), please visit the [official MPL website](https://www.mozilla.org/MPL/).
 
-### Mozilla Public License (English Version)
+### The Carson Open Source License (CEOSL) (English Version)
 
 - [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
 - [txt](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/License)

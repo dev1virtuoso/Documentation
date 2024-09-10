@@ -13,7 +13,7 @@ Your money will be used to enhance the quality of our services and to enable mor
 | --- | --- | --- |
 | Usage | Personal, educational, and non-commercial use | Commercial use, team use, or profit from products derived from your own products |
 | Price | Free (Donations optional, starting from at least US$1) | US$500/month (GitHub will charge 6% from it) |
-| License | Mozilla Public License Version 2.0 | Mozilla Public License Version 2.0 & Company License |
+| License | The Carson Open Source License (CEOSL) Version 2.0 | The Carson Open Source License (CEOSL) Version 2.0 & Company License |
 | Authorship | All versions are required to prominently feature my name and other identifiable authorship in any derived content. | All versions are required to prominently feature my name and other identifiable authorship in any derived content. |
 
 If you have any questions or need further assistance, please feel free to contact me.
