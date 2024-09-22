@@ -3,110 +3,110 @@
 ## Time Machine
 
 - Time Machine accelerate
-`
-sudo sysctl debug.lowpri_throttle_enabled=0
-`
+```
+$ sudo sysctl debug.lowpri_throttle_enabled=0
+```
 - Revert
-`
-sudo sysctl debug.lowpri_throttle_enabled=1
-`
+```
+$ sudo sysctl debug.lowpri_throttle_enabled=1
+```
 
 ## File System
 
 - List files and directories in the current directory:
-  `
-  ls
-  `
+  ```
+  $ ls
+  ```
 - Change directory:
-  `
-  cd [directory_path]
-  `
+  ```
+  $ cd [directory_path]
+  ```
 - Create a new directory:
-  `
-  mkdir [directory_name]
-  `
+  ```
+  $ mkdir [directory_name]
+  ```
 
 ## System Information
 
 - Show system information:
-  `
-  system_profiler
-  `
+  ```
+  $ system_profiler
+  ```
 - Display system uptime:
-  `
-  uptime
-  `
+  ```
+  $ uptime
+  ```
 
 ## Network
 
 - Display network configuration:
-  `
-  ifconfig
-  `
+  ```
+  $ ifconfig
+  ```
 - Check network connections:
-  `
-  netstat
-  `
+  ```
+  $ netstat
+  ```
 
 ## Processes
 
 - List running processes:
-  `
-  ps
-  `
+  ```
+  $ ps
+  ```
 - Kill a process:
-  `
-  kill [process_id]
-  `
+  ```
+  $ kill [process_id]
+  ```
 
 ## Package Management
 
 - Install Homebrew (package manager for macOS):
-  `
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-  `
+  ```
+  $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```
 - Install a package using Homebrew:
-  `
-  brew install [package_name]
-  `
+  ```
+  $ brew install [package_name]
+  ```
 
 ## Disk Space
 
 - Display disk space usage:
-  `
-  df -h
-  `
+  ```
+  $ df -h
+  ```
 
 ## Terminal
 
 - Clear the terminal screen:
-  `
-  clear
-  `
+  ```
+  $ clear
+  ```
 - Search command history:
-  `
-  history | grep [keyword]
-  `
+  ```
+  $ history | grep [keyword]
+  ```
 
 ## User Management
 
 - Add a new user:
-  `
-  sudo sysadminctl -addUser [username]
-  `
+  ```
+  $ sudo sysadminctl -addUser [username]
+  ```
 - Change user password:
-  `
-  passwd [username]
-  `
+  ```
+  $ passwd [username]
+  ```
 
 ## Miscellaneous
 
 - Open a file or directory in Finder:
-  `
-  open [file_path]
-  `
+  ```
+  $ open [file_path]
+  ```
 - Shutdown macOS after a specified delay:
-  `
-  shutdown -h +60 "Shutting down in 1 hour"
-  `
+  ```
+  $ shutdown -h +60 "Shutting down in 1 hour"
+  ```
   
