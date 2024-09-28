@@ -115,6 +115,3 @@
       - [Web crawler.py: Web Crawler](https://github.com/Carson-We/Utility/blob/main/Tools/Web%20crawler.py)
   - [Website: Repository for Website](https://github.com/Carson-We/Website)
     - [carson1125](https://github.com/Carson-We/Website/tree/main/carson1125/)
-
-## Full 
-[full_content.txt](full_content.txt)
