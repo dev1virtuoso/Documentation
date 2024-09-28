@@ -1,5 +1,7 @@
 # Table of Contents
 
+## Summarize
+
 - [Carson-We](https://github.com/Carson-We)
   - [.github: Special repository in my GitHub](https://github.com/Carson-We/.github)
   - [Application: Repository for Application](https://github.com/Carson-We/)
@@ -113,3 +115,6 @@
       - [Web crawler.py: Web Crawler](https://github.com/Carson-We/Utility/blob/main/Tools/Web%20crawler.py)
   - [Website: Repository for Website](https://github.com/Carson-We/Website)
     - [carson1125](https://github.com/Carson-We/Website/tree/main/carson1125/)
+
+## Full 
+[full_content.txt](full_content.txt)
