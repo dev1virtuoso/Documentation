@@ -83,6 +83,7 @@
 ## Introduction to Assembly Language
 
 ### Overview of Assembly Language
+
 #### History and Evolution
 #### Importance in Computer Programming
 #### Relationship to Machine Code
@@ -90,11 +91,13 @@
 ## Assembly Language Fundamentals
 
 ### Basic Syntax
+
 #### Statements and Directives
 #### Registers and Memory Addressing
 #### Instruction Set Architecture
 
 ### Data Representation
+
 #### Number Systems
 #### Data Types
 #### Endianness
@@ -102,11 +105,13 @@
 ## Control Structures
 
 ### Conditional Branching
+
 #### Comparison Instructions
 #### Conditional Jumps
 #### Switch Statements
 
 ### Looping Constructs
+
 #### For Loops
 #### While Loops
 #### Loop Control Instructions
@@ -114,11 +119,13 @@
 ## Data Manipulation
 
 ### Arithmetic Operations
+
 #### Addition and Subtraction
 #### Multiplication and Division
 #### Logical Operations
 
 ### Data Movement
+
 #### Loading and Storing Data
 #### Data Transfer Instructions
 #### Stack Operations
@@ -126,11 +133,13 @@
 ## Input/Output Operations
 
 ### Accessing Input Devices
+
 #### Reading from Keyboard
 #### Input Buffer Handling
 #### Input Validation
 
 ### Interfacing with Output Devices
+
 #### Displaying Output
 #### Printing Characters
 #### Output Buffer Management
@@ -138,11 +147,13 @@
 ## Assembly Language Programming Techniques
 
 ### Procedural Programming
+
 #### Subroutines and Functions
 #### Parameter Passing
 #### Return Values
 
 ### Exception Handling
+
 #### Interrupts and Exceptions
 #### Error Handling
 #### Interrupt Service Routines
@@ -150,11 +161,13 @@
 ## Advanced Topics
 
 ### Memory Management
+
 #### Segmentation and Paging
 #### Memory Allocation
 #### Virtual Memory
 
 ### Optimization Techniques
+
 #### Code Optimization
 #### Performance Profiling
 #### Inline Assembly
@@ -162,16 +175,19 @@
 ## Assembly Language for Embedded Systems
 
 ### Embedded Systems Overview
+
 #### Characteristics of Embedded Systems
 #### Real-time Constraints
 #### Hardware Interfacing
 
 ### Low-level Programming
+
 #### Bit Manipulation
 #### Register Configuration
 #### Interrupt Handling
 
 ### RTOS in Assembly
+
 #### Real-Time Operating Systems
 #### Task Scheduling
 #### Resource Management
