@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence & Machine Learning Enthusiast
 
-- Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+- Email: [following methods](https://carson-we.github.io/contact.html)
 - Phone: +852 6307 8780
 - Location: Hong Kong
 

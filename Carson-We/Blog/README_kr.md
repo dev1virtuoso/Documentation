@@ -25,4 +25,4 @@
 9. 웹사이트 콘텐츠 사용이나 제3자 링크 접근으로 인해 발생하는 어떠한 손실이나 손해에 대해서도 웹사이트는 책임을 지지 않습니다.
 10. 이 저작권 성명은 언제든지 변경되거나 업데이트될 수 있습니다. 최신 버전을 정기적으로 확인하시기 바랍니다.
 
-문의사항이 있으시면 카슨에게 [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)으로 연락해 주세요.
+문의사항이 있으시면 카슨에게 [following methods](https://carson-we.github.io/contact.html)으로 연락해 주세요.

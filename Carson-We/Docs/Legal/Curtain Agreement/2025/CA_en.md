@@ -391,7 +391,7 @@ Copyright © 2024 Carson. all rights reserved.
 
 10. This copyright statement may be changed or updated at any time without prior notice. We recommend that you check the latest version regularly.
 
-If you have any questions about the copyright statement, please contact Carson: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+If you have any questions about the copyright statement, please contact Carson: [following methods](https://carson-we.github.io/contact.html)
 
 ## Supplementary Provisions
 

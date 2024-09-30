@@ -11,7 +11,7 @@
 9. This website is not liable for any loss or damage incurred from the use of the content on this website or the access of third-party links.
 10. This copyright notice is subject to change or update at any time. Please check the latest version regularly.
 
-For inquiries, please contact Carson: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
+For inquiries, please contact Carson: [following methods](https://carson-we.github.io/contact.html)
 
 ## The Carson Open Source License (CEOSL)
 
