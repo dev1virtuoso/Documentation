@@ -62,6 +62,6 @@ If our services involve child users, we include policies on how we protect child
 
 If applicable, we include contact information for regulatory agencies for users to report privacy concerns if necessary.
 
-If you have any inquiries or require further assistance, please don't hesitate to contact us at [following methods](https://carson-we.github.io/contact.html).
+If you have any inquiries or require further assistance, please don't hesitate to contact us at [following methods](https://carson-we.github.io/Carson-We.github.io/contact.html).
 
 Last Updated by Carson Wu on August 31, 2024

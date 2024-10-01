@@ -25,4 +25,4 @@ Copyright © 2024 Carson Wu. All rights reserved.
 9. The website assumes no responsibility for any loss or damage arising from the use of the website content or access to third-party links.
 10. This copyright statement is subject to change or update at any time. Please check regularly for the latest version.
 
-For inquiries, please contact Carson at [following methods](https://carson-we.github.io/contact.html).
+For inquiries, please contact Carson at [following methods](https://carson-we.github.io/Carson-We.github.io/contact.html).

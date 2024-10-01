@@ -11,7 +11,7 @@
 9. This website is not liable for any loss or damage incurred from the use of the content on this website or the access of third-party links.
 10. This copyright notice is subject to change or update at any time. Please check the latest version regularly.
 
-For inquiries, please contact Carson: [following methods](https://carson-we.github.io/contact.html)
+For inquiries, please contact Carson: [following methods](https://carson-we.github.io/Carson-We.github.io/contact.html)
 
 ## The Carson Open Source License (CEOSL)
 
@@ -19,11 +19,11 @@ All content and components on this website are licensed under the The Carson Ope
 
 ### About The Carson Open Source License (CEOSL)
 
-The The Carson Open Source License (CEOSL) (MPL) is a free and open-source software license developed by the Mozilla Foundation. It is a permissive license that allows you to use, modify, and distribute the licensed software under certain conditions.
+The MIT License(MPL) is a free and open-source software license developed by the Mozilla Foundation. It is a permissive license that allows you to use, modify, and distribute the licensed software under certain conditions.
 
 For more information about the The Carson Open Source License (CEOSL), please visit the [official MPL website](https://www.mozilla.org/MPL/).
 
-### The Carson Open Source License (CEOSL) (English Version)
+### MIT License(English Version)
 
 - [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
 - [txt](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/License)
