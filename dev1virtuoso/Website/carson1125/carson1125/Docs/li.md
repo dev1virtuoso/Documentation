@@ -13,15 +13,15 @@
 
 For inquiries, please contact Carson: [following methods](https://carson-we.github.io/Carson-We.github.io/contact.html)
 
-## The MIT License (CEOSL)
+## The MIT License
 
-All content and components on this website are licensed under the The MIT License (CEOSL).
+All content and components on this website are licensed under the The MIT License.
 
-### About The MIT License (CEOSL)
+### About The MIT License
 
 The MIT License(MPL) is a free and open-source software license developed by the Mozilla Foundation. It is a permissive license that allows you to use, modify, and distribute the licensed software under certain conditions.
 
-For more information about the The MIT License (CEOSL), please visit the [official MPL website](https://www.mozilla.org/MPL/).
+For more information about the The MIT License, please visit the [official MPL website](https://www.mozilla.org/MPL/).
 
 ### MIT License(English Version)
 

@@ -14,7 +14,7 @@ Contributions to this computer vision project are highly appreciated. If you wis
 - Make your changes and thoroughly test them.
 - Submit a pull request describing the modifications and the rationale behind them.
 
-By contributing to this project, you agree to license your contributions under the terms of the The MIT License (CEOSL).
+By contributing to this project, you agree to license your contributions under the terms of the The MIT License.
 
 ## Contact Information
 
