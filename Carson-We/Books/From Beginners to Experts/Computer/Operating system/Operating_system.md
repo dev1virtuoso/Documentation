@@ -1,17 +1,6 @@
 # From Beginners to Experts: Operating system
 
 ## Table of Content
-- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
-  - [Table of Content](#table-of-content)
-  - [Chapter 1: Introduction to Operating Systems](#chapter-1-introduction-to-operating-systems)
-  - [Chapter 2: Basics of Operating Systems](#chapter-2-basics-of-operating-systems)
-  - [Chapter 3: File Systems and Storage Management](#chapter-3-file-systems-and-storage-management)
-  - [Chapter 4: Memory Management](#chapter-4-memory-management)
-  - [Chapter 5: Device Management](#chapter-5-device-management)
-  - [Chapter 6: Operating System Security](#chapter-6-operating-system-security)
-  - [Chapter 7: Virtualization and Cloud Computing](#chapter-7-virtualization-and-cloud-computing)
-  - [Chapter 8: Distributed Systems](#chapter-8-distributed-systems)
-  - [Chapter 9: Advanced Operating System Concepts](#chapter-9-advanced-operating-system-concepts)
 
 ## Chapter 1: Introduction to Operating Systems
 - **1.1 What is an Operating System?**

@@ -1,17 +1,6 @@
 # From Beginners to Experts: Linux
 
 ## Table of Content
-- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
-  - [Table of Content](#table-of-content)
-  - [Chapter 1: Introduction to Linux](#chapter-1-introduction-to-linux)
-  - [Chapter 2: Getting Started with Linux](#chapter-2-getting-started-with-linux)
-  - [Chapter 3: Essential Linux Concepts](#chapter-3-essential-linux-concepts)
-  - [Chapter 4: Shell Scripting](#chapter-4-shell-scripting)
-  - [Chapter 5: System Administration](#chapter-5-system-administration)
-  - [Chapter 6: Advanced Topics in Linux](#chapter-6-advanced-topics-in-linux)
-  - [Chapter 7: Linux for Development and Operations](#chapter-7-linux-for-development-and-operations)
-  - [Chapter 8: Linux Performance Tuning](#chapter-8-linux-performance-tuning)
-  - [Chapter 9: Best Practices and Security](#chapter-9-best-practices-and-security)
 
 ## Chapter 1: Introduction to Linux
 - **1.1 What is Linux?**
