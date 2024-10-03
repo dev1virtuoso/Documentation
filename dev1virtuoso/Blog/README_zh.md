@@ -25,4 +25,4 @@
 9. 對於因使用本網站內容或存取第三方連結而產生的任何損失或損害，本網站不承擔任何責任。
 10. 本版權聲明可能隨時變更或更新。請定期檢查最新版本。
 
-如有疑問，請聯絡Carson：[following methods](https://carson-we.github.io/Carson-We.github.io/contact.html)
+如有疑問，請聯絡Carson：[following methods](https://dev1virtuoso.github.io/dev1virtuoso.github.io/contact.html)
