@@ -17,7 +17,7 @@ To begin working with the computer vision project, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/Carson-We/{Template}.git
+   git clone https://github.com/dev1virtuoso/{Template}.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.

@@ -25,5 +25,5 @@ For more information about the The MIT License, please visit the [official MPL w
 
 ### MIT License(English Version)
 
-- [PDF](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
-- [txt](https://github.com/Carson-We/Documentation/blob/main/Website/carson1125/carson1125/Docs/License)
+- [PDF](https://github.com/dev1virtuoso/Documentation/blob/main/Website/carson1125/carson1125/Docs/Mozilla%20Public%20License.pdf)
+- [txt](https://github.com/dev1virtuoso/Documentation/blob/main/Website/carson1125/carson1125/Docs/License)
