@@ -2,6 +2,25 @@
 
 This Privacy Policy describes our policies and procedures regarding the collection, use, and sharing of your personal information. This includes details on how we handle the information you provide to us, how it is utilized, and the protective measures we implement.
 
+## Table of Content
+- [Privacy Policy](#privacy-policy)
+  - [Table of Content](#table-of-content)
+  - [1. Privacy as a Fundamental Right](#1-privacy-as-a-fundamental-right)
+  - [2. Innovative Privacy Protection Measures](#2-innovative-privacy-protection-measures)
+  - [3. Measures to Protect Your Privacy and Information](#3-measures-to-protect-your-privacy-and-information)
+  - [4. Entertainment Services](#4-entertainment-services)
+  - [5. Information Collected](#5-information-collected)
+  - [6. Use of Collected Information](#6-use-of-collected-information)
+  - [7. Information Sharing](#7-information-sharing)
+  - [8. Information Protection](#8-information-protection)
+  - [9. Data Retention Period](#9-data-retention-period)
+  - [10. User Rights Statement](#10-user-rights-statement)
+  - [11. Third-Party Service Usage](#11-third-party-service-usage)
+  - [12. Data Transfer Details](#12-data-transfer-details)
+  - [13. Children's Privacy Protection](#13-childrens-privacy-protection)
+  - [14. Regulatory Information](#14-regulatory-information)
+
+
 ## 1. Privacy as a Fundamental Right
 
 Privacy is considered a fundamental human right and a core value for us. As such, our products and services are designed with a focus on safeguarding your privacy, reflecting our dedication to this belief.
