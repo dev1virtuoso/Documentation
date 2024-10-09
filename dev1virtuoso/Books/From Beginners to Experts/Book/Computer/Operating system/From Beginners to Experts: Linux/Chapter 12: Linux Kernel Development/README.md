@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 12: Linux Kernel Development](#chapter-12-linux-kernel-development)
+      - [Section 12.1: Understanding the Linux Kernel](#section-121-understanding-the-linux-kernel)
+        - [12.1.1 Kernel Basics](#1211-kernel-basics)
+        - [12.1.2 Kernel Architecture](#1212-kernel-architecture)
+      - [Section 12.2: Kernel Compilation and Configuration](#section-122-kernel-compilation-and-configuration)
+        - [12.2.1 Kernel Compilation Process](#1221-kernel-compilation-process)
+        - [12.2.2 Kernel Configuration Tools](#1222-kernel-configuration-tools)
+      - [Section 12.3: Kernel Module Development](#section-123-kernel-module-development)
+        - [12.3.1 Kernel Modules Overview](#1231-kernel-modules-overview)
+        - [12.3.2 Module Development Process](#1232-module-development-process)
+      - [Section 12.4: Debugging and Profiling the Kernel](#section-124-debugging-and-profiling-the-kernel)
+        - [12.4.1 Kernel Debugging Techniques](#1241-kernel-debugging-techniques)
+        - [12.4.2 Kernel Profiling Tools](#1242-kernel-profiling-tools)
+      - [Section 12.5: Kernel Security and Hardening](#section-125-kernel-security-and-hardening)
+        - [12.5.1 Kernel Security Measures](#1251-kernel-security-measures)
+        - [12.5.2 Kernel Hardening Techniques](#1252-kernel-hardening-techniques)
+      - [Section 12.6: Conclusion](#section-126-conclusion)
+
 ## Chapter 12: Linux Kernel Development
 
 #### Section 12.1: Understanding the Linux Kernel

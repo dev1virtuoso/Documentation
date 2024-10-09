@@ -1,5 +1,22 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 2: Getting Started with Linux](#chapter-2-getting-started-with-linux)
+      - [Section 2.1: Introduction to Linux](#section-21-introduction-to-linux)
+        - [2.1.1 Linux Basics](#211-linux-basics)
+        - [2.1.2 Linux Distributions](#212-linux-distributions)
+      - [Section 2.2: Installing Linux](#section-22-installing-linux)
+        - [2.2.1 Choosing a Distribution](#221-choosing-a-distribution)
+        - [2.2.2 Installation Process](#222-installation-process)
+      - [Section 2.3: Navigating the Linux Environment](#section-23-navigating-the-linux-environment)
+        - [2.3.1 Command-Line Interface (CLI)](#231-command-line-interface-cli)
+        - [2.3.2 Basic Commands](#232-basic-commands)
+      - [Section 2.4: File System and Permissions](#section-24-file-system-and-permissions)
+        - [2.4.1 File System Structure](#241-file-system-structure)
+        - [2.4.2 File Permissions](#242-file-permissions)
+      - [Section 2.5: Conclusion](#section-25-conclusion)
+
 ## Chapter 2: Getting Started with Linux
 
 #### Section 2.1: Introduction to Linux

@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 19: Operating Systems for Quantum Computing](#chapter-19-operating-systems-for-quantum-computing)
+      - [Section 19.1: Quantum Computing Fundamentals](#section-191-quantum-computing-fundamentals)
+        - [19.1.1: Quantum Mechanics Primer](#1911-quantum-mechanics-primer)
+        - [19.1.2: Quantum Gates and Circuits](#1912-quantum-gates-and-circuits)
+      - [Section 19.2: Challenges in Quantum Operating Systems](#section-192-challenges-in-quantum-operating-systems)
+        - [19.2.1: Hardware Abstraction](#1921-hardware-abstraction)
+        - [19.2.2: Quantum Resource Management](#1922-quantum-resource-management)
+      - [Section 19.3: Quantum Operating System Architectures](#section-193-quantum-operating-system-architectures)
+        - [19.3.1: Quantum Circuit Simulators](#1931-quantum-circuit-simulators)
+        - [19.3.2: Quantum Development Frameworks](#1932-quantum-development-frameworks)
+      - [Section 19.4: Future Directions in Quantum Operating Systems](#section-194-future-directions-in-quantum-operating-systems)
+        - [19.4.1: Quantum Cloud Computing](#1941-quantum-cloud-computing)
+        - [19.4.2: Quantum Machine Learning](#1942-quantum-machine-learning)
+      - [Conclusion](#conclusion)
+
 ## Chapter 19: Operating Systems for Quantum Computing
 
 The advent of quantum computing technologies has ushered in a new era of computational possibilities, challenging traditional operating system paradigms and prompting the development of specialized operating systems tailored for quantum hardware architectures, programming models, and quantum algorithms. This chapter delves into the unique characteristics, design principles, and emerging trends in operating systems for quantum computing, exploring the intersection of quantum mechanics, information theory, and computer science in shaping the future of quantum operating systems and quantum-native applications.

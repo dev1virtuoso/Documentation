@@ -1,5 +1,23 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 4: Data Structures](#chapter-4-data-structures)
+    - [Section 4.1: Introduction to Data Structures](#section-41-introduction-to-data-structures)
+      - [4.1.1 What are Data Structures?](#411-what-are-data-structures)
+      - [4.1.2 Importance of Data Structures](#412-importance-of-data-structures)
+    - [Section 4.2: Common Data Structures](#section-42-common-data-structures)
+      - [4.2.1 Arrays](#421-arrays)
+      - [4.2.2 Linked Lists](#422-linked-lists)
+      - [4.2.3 Stacks](#423-stacks)
+      - [4.2.4 Queues](#424-queues)
+      - [4.2.5 Trees](#425-trees)
+      - [4.2.6 Graphs](#426-graphs)
+    - [Section 4.3: Advanced Data Structures](#section-43-advanced-data-structures)
+      - [4.3.1 Heaps](#431-heaps)
+      - [4.3.2 Hash Tables](#432-hash-tables)
+    - [Section 4.4: Conclusion](#section-44-conclusion)
+
 ## Chapter 4: Data Structures
 
 ### Section 4.1: Introduction to Data Structures

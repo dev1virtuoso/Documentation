@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 15: Parallel Processing in Assembly](#chapter-15-parallel-processing-in-assembly)
+      - [Section 15.1: Introduction to Parallel Processing](#section-151-introduction-to-parallel-processing)
+      - [Section 15.2: Multi-Core Processors and Thread-Level Parallelism](#section-152-multi-core-processors-and-thread-level-parallelism)
+      - [Section 15.3: SIMD and Vector Processing](#section-153-simd-and-vector-processing)
+      - [Section 15.4: Task Parallelism and Distributed Computing](#section-154-task-parallelism-and-distributed-computing)
+      - [Section 15.5: Shared Memory and Message Passing](#section-155-shared-memory-and-message-passing)
+      - [Section 15.6: Case Study: Parallel Processing Example in Assembly Language](#section-156-case-study-parallel-processing-example-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 15: Parallel Processing in Assembly
 
 In this chapter, we delve into the realm of parallel processing in assembly language, exploring how developers can harness the power of multiple processing units to achieve enhanced performance, efficiency, and scalability in computing systems. Parallel processing involves executing multiple tasks simultaneously, distributing computational workload across multiple cores or processors, and leveraging parallelism to accelerate data processing, improve system responsiveness, and enable efficient utilization of computing resources in modern parallel computing environments.

@@ -4,9 +4,9 @@ These Terms of Use govern the usage of all products developed by Carson Wu (refe
 
 I reserve the right to modify these Terms of Use at my discretion. Your continued use of these products after any changes signifies acceptance of the revised terms. By complying with these Terms of Use, you are granted a limited right to access and use the products.
 
-## Table of Content
+## Table of Contents
 - [Ownership of Products; Terms of Use Agreement](#ownership-of-products-terms-of-use-agreement)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-content)
   - [Content](#content)
   - [Your Use of Our Products](#your-use-of-our-products)
   - [Purchase; Additional Terms](#purchase-additional-terms)

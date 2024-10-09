@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 18: Containerization and Operating Systems](#chapter-18-containerization-and-operating-systems)
+      - [Section 18.1: Containerization Fundamentals](#section-181-containerization-fundamentals)
+        - [18.1.1: Containerization Concepts](#1811-containerization-concepts)
+        - [18.1.2: Docker and Container Runtimes](#1812-docker-and-container-runtimes)
+      - [Section 18.2: Operating System Support for Containers](#section-182-operating-system-support-for-containers)
+        - [18.2.1: Container-friendly OS Features](#1821-container-friendly-os-features)
+        - [18.2.2: Container-Optimized OS Distributions](#1822-container-optimized-os-distributions)
+      - [Section 18.3: Kubernetes and Container Orchestration](#section-183-kubernetes-and-container-orchestration)
+        - [18.3.1: Kubernetes Ecosystem](#1831-kubernetes-ecosystem)
+        - [18.3.2: Operating System Integration](#1832-operating-system-integration)
+      - [Section 18.4: Future Trends and Innovations](#section-184-future-trends-and-innovations)
+        - [18.4.1: Serverless Computing and Containerization](#1841-serverless-computing-and-containerization)
+        - [18.4.2: Edge Computing and Container Orchestration](#1842-edge-computing-and-container-orchestration)
+      - [Conclusion](#conclusion)
+
 ## Chapter 18: Containerization and Operating Systems
 
 The integration of containerization technologies with operating systems has revolutionized software development, deployment, and system administration practices, offering a lightweight, portable, and scalable approach to packaging applications, isolating dependencies, and streamlining deployment workflows. This chapter explores the symbiotic relationship between containerization and operating systems, examining the impact of container technologies like Docker, Kubernetes, and container runtimes on OS architectures, virtualization frameworks, and cloud-native ecosystems, and outlining best practices, use cases, and future trends in containerized computing environments.

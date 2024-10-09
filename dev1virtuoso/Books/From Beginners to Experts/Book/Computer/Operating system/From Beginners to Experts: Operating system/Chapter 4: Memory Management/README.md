@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 4: Memory Management](#chapter-4-memory-management)
+      - [Section 4.1: Memory Management Fundamentals](#section-41-memory-management-fundamentals)
+        - [4.1.1: Memory Architecture](#411-memory-architecture)
+        - [4.1.2: Memory Allocation](#412-memory-allocation)
+      - [Section 4.2: Virtual Memory Systems](#section-42-virtual-memory-systems)
+        - [4.2.1: Virtual Memory Concepts](#421-virtual-memory-concepts)
+        - [4.2.2: Page Replacement Algorithms](#422-page-replacement-algorithms)
+      - [Section 4.3: Memory Optimization Techniques](#section-43-memory-optimization-techniques)
+        - [4.3.1: Memory Compaction](#431-memory-compaction)
+        - [4.3.2: Memory Leak Detection](#432-memory-leak-detection)
+      - [Section 4.4: Memory Management Best Practices](#section-44-memory-management-best-practices)
+        - [4.4.1: Memory Monitoring](#441-memory-monitoring)
+        - [4.4.2: Memory Optimization Strategies](#442-memory-optimization-strategies)
+      - [Conclusion](#conclusion)
+
 ## Chapter 4: Memory Management
 
 Memory management is a critical aspect of operating systems, overseeing the allocation, utilization, and optimization of system memory to support application execution, facilitate multitasking, and ensure efficient resource utilization. This chapter delves into the principles of memory management, memory hierarchy, virtual memory systems, and memory optimization techniques in operating systems.

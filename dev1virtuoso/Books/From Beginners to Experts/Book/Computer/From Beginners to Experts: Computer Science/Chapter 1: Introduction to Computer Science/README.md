@@ -1,5 +1,24 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 1: Introduction to Computer Science](#chapter-1-introduction-to-computer-science)
+  - [Section 1.1: Understanding the Basics of Computer Science](#section-11-understanding-the-basics-of-computer-science)
+    - [1.1.1 Evolution of Computer Science](#111-evolution-of-computer-science)
+    - [1.1.2 Key Concepts in Computer Science](#112-key-concepts-in-computer-science)
+      - [1.1.2.1 Algorithms](#1121-algorithms)
+      - [1.1.2.2 Data Structures](#1122-data-structures)
+      - [1.1.2.3 Programming Paradigms](#1123-programming-paradigms)
+  - [Section 1.2: Applications of Computer Science](#section-12-applications-of-computer-science)
+    - [1.2.1 Artificial Intelligence and Machine Learning](#121-artificial-intelligence-and-machine-learning)
+    - [1.2.2 Cybersecurity](#122-cybersecurity)
+    - [1.2.3 Software Engineering](#123-software-engineering)
+  - [Section 1.3: Future Trends in Computer Science](#section-13-future-trends-in-computer-science)
+    - [1.3.1 Quantum Computing](#131-quantum-computing)
+    - [1.3.2 Internet of Things (IoT)](#132-internet-of-things-iot)
+    - [1.3.3 Blockchain Technology](#133-blockchain-technology)
+  - [Section 1.4: Conclusion](#section-14-conclusion)
+
 ## Chapter 1: Introduction to Computer Science
 
 ## Section 1.1: Understanding the Basics of Computer Science

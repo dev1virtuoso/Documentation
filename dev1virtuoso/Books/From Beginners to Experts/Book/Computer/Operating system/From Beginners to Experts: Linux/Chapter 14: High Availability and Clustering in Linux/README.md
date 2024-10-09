@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 14: High Availability and Clustering in Linux](#chapter-14-high-availability-and-clustering-in-linux)
+      - [Section 14.1: Understanding High Availability](#section-141-understanding-high-availability)
+        - [14.1.1 High Availability Concepts](#1411-high-availability-concepts)
+        - [14.1.2 Importance of High Availability](#1412-importance-of-high-availability)
+      - [Section 14.2: High Availability Solutions in Linux](#section-142-high-availability-solutions-in-linux)
+        - [14.2.1 Pacemaker and Corosync](#1421-pacemaker-and-corosync)
+        - [14.2.2 Heartbeat and Keepalived](#1422-heartbeat-and-keepalived)
+      - [Section 14.3: Linux Cluster Technologies](#section-143-linux-cluster-technologies)
+        - [14.3.1 Clustered File Systems](#1431-clustered-file-systems)
+        - [14.3.2 Load Balancing in Clusters](#1432-load-balancing-in-clusters)
+      - [Section 14.4: Data Replication and Disaster Recovery](#section-144-data-replication-and-disaster-recovery)
+        - [14.4.1 Data Replication Strategies](#1441-data-replication-strategies)
+        - [14.4.2 Disaster Recovery Planning](#1442-disaster-recovery-planning)
+      - [Section 14.5: Monitoring and Maintenance](#section-145-monitoring-and-maintenance)
+        - [14.5.1 Cluster Monitoring Tools](#1451-cluster-monitoring-tools)
+        - [14.5.2 Maintenance and Upgrades](#1452-maintenance-and-upgrades)
+      - [Section 14.6: Conclusion](#section-146-conclusion)
+
 ## Chapter 14: High Availability and Clustering in Linux
 
 #### Section 14.1: Understanding High Availability

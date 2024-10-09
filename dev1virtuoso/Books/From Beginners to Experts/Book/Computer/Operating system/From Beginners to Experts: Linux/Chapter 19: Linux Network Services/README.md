@@ -1,5 +1,23 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 19: Linux Network Services](#chapter-19-linux-network-services)
+      - [Section 19.1: Introduction to Linux Network Services](#section-191-introduction-to-linux-network-services)
+        - [19.1.1: Network Services Overview](#1911-network-services-overview)
+        - [19.1.2: Importance of Network Services](#1912-importance-of-network-services)
+      - [Section 19.2: Common Linux Network Services](#section-192-common-linux-network-services)
+        - [19.2.1: Domain Name System (DNS)](#1921-domain-name-system-dns)
+        - [19.2.2: Dynamic Host Configuration Protocol (DHCP)](#1922-dynamic-host-configuration-protocol-dhcp)
+        - [19.2.3: File Transfer Protocol (FTP)](#1923-file-transfer-protocol-ftp)
+      - [Section 19.3: Configuring and Securing Network Services](#section-193-configuring-and-securing-network-services)
+        - [19.3.1: Service Configuration](#1931-service-configuration)
+        - [19.3.2: Service Security](#1932-service-security)
+      - [Section 19.4: Monitoring and Maintenance of Network Services](#section-194-monitoring-and-maintenance-of-network-services)
+        - [19.4.1: Service Monitoring](#1941-service-monitoring)
+        - [19.4.2: Service Maintenance](#1942-service-maintenance)
+      - [Conclusion](#conclusion)
+
 ## Chapter 19: Linux Network Services
 
 In the realm of Linux server administration, network services play a pivotal role in enabling communication, resource sharing, and connectivity across diverse computing environments. This chapter delves into the various network services offered by Linux systems, their configurations, and best practices for managing and securing these services effectively.

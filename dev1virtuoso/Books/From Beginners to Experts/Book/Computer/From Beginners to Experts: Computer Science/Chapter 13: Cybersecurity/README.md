@@ -1,5 +1,28 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 13: Cybersecurity](#chapter-13-cybersecurity)
+    - [Section 13.1: Introduction to Cybersecurity](#section-131-introduction-to-cybersecurity)
+      - [13.1.1 What is Cybersecurity?](#1311-what-is-cybersecurity)
+      - [13.1.2 Importance of Cybersecurity](#1312-importance-of-cybersecurity)
+    - [Section 13.2: Cyber Threats and Types of Attacks](#section-132-cyber-threats-and-types-of-attacks)
+      - [13.2.1 Common Cyber Threats](#1321-common-cyber-threats)
+      - [13.2.2 Types of Attacks](#1322-types-of-attacks)
+    - [Section 13.3: Cybersecurity Measures](#section-133-cybersecurity-measures)
+      - [13.3.1 Encryption](#1331-encryption)
+      - [13.3.2 Firewalls](#1332-firewalls)
+    - [Section 13.4: Security Best Practices](#section-134-security-best-practices)
+      - [13.4.1 Strong Passwords](#1341-strong-passwords)
+      - [13.4.2 Regular Software Updates](#1342-regular-software-updates)
+    - [Section 13.5: Security Frameworks and Compliance](#section-135-security-frameworks-and-compliance)
+      - [13.5.1 NIST Cybersecurity Framework](#1351-nist-cybersecurity-framework)
+      - [13.5.2 GDPR and Data Protection](#1352-gdpr-and-data-protection)
+    - [Section 13.6: Incident Response and Cybersecurity Awareness](#section-136-incident-response-and-cybersecurity-awareness)
+      - [13.6.1 Incident Response Plan](#1361-incident-response-plan)
+      - [13.6.2 Cybersecurity Awareness Training](#1362-cybersecurity-awareness-training)
+    - [Section 13.7: Conclusion](#section-137-conclusion)
+
 ## Chapter 13: Cybersecurity
 
 ### Section 13.1: Introduction to Cybersecurity

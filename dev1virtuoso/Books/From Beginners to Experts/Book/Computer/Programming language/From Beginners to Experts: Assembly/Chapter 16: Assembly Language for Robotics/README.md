@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 16: Assembly Language for Robotics](#chapter-16-assembly-language-for-robotics)
+      - [Section 16.1: Introduction to Robotics Programming](#section-161-introduction-to-robotics-programming)
+      - [Section 16.2: Sensor Integration and Data Processing](#section-162-sensor-integration-and-data-processing)
+      - [Section 16.3: Actuator Control and Motion Planning](#section-163-actuator-control-and-motion-planning)
+      - [Section 16.4: Real-Time Control and Embedded Systems](#section-164-real-time-control-and-embedded-systems)
+      - [Section 16.5: Autonomous Navigation and Decision Making](#section-165-autonomous-navigation-and-decision-making)
+      - [Section 16.6: Case Study: Robotic Control System in Assembly Language](#section-166-case-study-robotic-control-system-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 16: Assembly Language for Robotics
 
 In this chapter, we explore the role of assembly language in robotics, focusing on how low-level programming can enhance the performance, efficiency, and real-time capabilities of robotic systems. Robotics involves the design, development, and operation of autonomous machines that interact with their environment, perform tasks, and exhibit intelligent behavior using a combination of sensors, actuators, and control algorithms. Assembly language programming plays a crucial role in robotics for controlling robot behavior, interfacing with sensors and actuators, implementing real-time control algorithms, and optimizing code execution to enable precise, responsive, and efficient operation of robotic systems in diverse application domains such as industrial automation, autonomous vehicles, and robotic manipulation.

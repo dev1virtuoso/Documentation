@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 16: Linux Security Auditing](#chapter-16-linux-security-auditing)
+      - [Section 16.1: Understanding Linux Security Auditing](#section-161-understanding-linux-security-auditing)
+        - [16.1.1 Security Auditing Overview](#1611-security-auditing-overview)
+        - [16.1.2 Importance of Security Auditing](#1612-importance-of-security-auditing)
+      - [Section 16.2: Linux Security Audit Tools](#section-162-linux-security-audit-tools)
+        - [16.2.1 Auditd](#1621-auditd)
+        - [16.2.2 Lynis](#1622-lynis)
+      - [Section 16.3: Auditing System Configuration](#section-163-auditing-system-configuration)
+        - [16.3.1 Configuration Auditing](#1631-configuration-auditing)
+        - [16.3.2 Compliance Auditing](#1632-compliance-auditing)
+      - [Section 16.4: Log Management and Analysis](#section-164-log-management-and-analysis)
+        - [16.4.1 Log Collection](#1641-log-collection)
+        - [16.4.2 Log Analysis](#1642-log-analysis)
+      - [Section 16.5: Vulnerability Assessment and Penetration Testing](#section-165-vulnerability-assessment-and-penetration-testing)
+        - [16.5.1 Vulnerability Scanning](#1651-vulnerability-scanning)
+        - [16.5.2 Penetration Testing](#1652-penetration-testing)
+      - [Section 16.6: Conclusion](#section-166-conclusion)
+
 ## Chapter 16: Linux Security Auditing
 
 #### Section 16.1: Understanding Linux Security Auditing

@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 18: Internet of Things (IoT)](#chapter-18-internet-of-things-iot)
+      - [Section 18.1: Introduction to Internet of Things](#section-181-introduction-to-internet-of-things)
+        - [18.1.1 Key Concepts of IoT](#1811-key-concepts-of-iot)
+        - [18.1.2 Evolution of IoT](#1812-evolution-of-iot)
+      - [Section 18.2: IoT Architecture and Components](#section-182-iot-architecture-and-components)
+        - [18.2.1 IoT Devices](#1821-iot-devices)
+        - [18.2.2 IoT Gateways](#1822-iot-gateways)
+      - [Section 18.3: IoT Applications and Use Cases](#section-183-iot-applications-and-use-cases)
+        - [18.3.1 Smart Home Automation](#1831-smart-home-automation)
+        - [18.3.2 Industrial IoT (IIoT)](#1832-industrial-iot-iiot)
+      - [Section 18.4: IoT Security and Privacy](#section-184-iot-security-and-privacy)
+        - [18.4.1 Security Challenges](#1841-security-challenges)
+        - [18.4.2 Privacy Considerations](#1842-privacy-considerations)
+      - [Section 18.5: Future Trends in IoT](#section-185-future-trends-in-iot)
+        - [18.5.1 Edge Computing in IoT](#1851-edge-computing-in-iot)
+        - [18.5.2 AI and Machine Learning in IoT](#1852-ai-and-machine-learning-in-iot)
+      - [Section 18.6: Conclusion](#section-186-conclusion)
+
 ## Chapter 18: Internet of Things (IoT)
 
 #### Section 18.1: Introduction to Internet of Things

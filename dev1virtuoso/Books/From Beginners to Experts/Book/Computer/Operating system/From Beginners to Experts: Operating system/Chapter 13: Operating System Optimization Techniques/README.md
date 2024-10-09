@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 13: Operating System Optimization Techniques](#chapter-13-operating-system-optimization-techniques)
+      - [Section 13.1: Introduction to Operating System Optimization](#section-131-introduction-to-operating-system-optimization)
+        - [13.1.1: Importance of OS Optimization](#1311-importance-of-os-optimization)
+        - [13.1.2: Goals of OS Optimization](#1312-goals-of-os-optimization)
+      - [Section 13.2: Performance Optimization Techniques](#section-132-performance-optimization-techniques)
+        - [13.2.1: Kernel Tuning](#1321-kernel-tuning)
+        - [13.2.2: Caching Strategies](#1322-caching-strategies)
+      - [Section 13.3: Resource Management and Scheduling](#section-133-resource-management-and-scheduling)
+        - [13.3.1: CPU Scheduling Algorithms](#1331-cpu-scheduling-algorithms)
+        - [13.3.2: Memory Management Optimization](#1332-memory-management-optimization)
+      - [Section 13.4: Energy Efficiency and Power Management](#section-134-energy-efficiency-and-power-management)
+        - [13.4.1: Dynamic Voltage and Frequency Scaling (DVFS)](#1341-dynamic-voltage-and-frequency-scaling-dvfs)
+        - [13.4.2: Sleep States and Idle Management](#1342-sleep-states-and-idle-management)
+      - [Conclusion](#conclusion)
+
 ## Chapter 13: Operating System Optimization Techniques
 
 Operating system optimization is crucial for improving performance, resource utilization, and responsiveness in computing systems. This chapter delves into a variety of techniques and strategies used to optimize operating systems, enhancing efficiency and scalability across diverse hardware platforms and application scenarios.

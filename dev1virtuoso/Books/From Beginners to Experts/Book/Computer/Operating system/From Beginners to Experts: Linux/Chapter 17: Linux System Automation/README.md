@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 17: Linux System Automation](#chapter-17-linux-system-automation)
+      - [Section 17.1: Introduction to System Automation](#section-171-introduction-to-system-automation)
+        - [17.1.1 System Automation Overview](#1711-system-automation-overview)
+        - [17.1.2 Benefits of System Automation](#1712-benefits-of-system-automation)
+      - [Section 17.2: Shell Scripting for Automation](#section-172-shell-scripting-for-automation)
+        - [17.2.1 Bash Scripting](#1721-bash-scripting)
+        - [17.2.2 Scripting Best Practices](#1722-scripting-best-practices)
+      - [Section 17.3: Task Scheduling with Cron and systemd timers](#section-173-task-scheduling-with-cron-and-systemd-timers)
+        - [17.3.1 Cron Jobs](#1731-cron-jobs)
+        - [17.3.2 systemd Timers](#1732-systemd-timers)
+      - [Section 17.4: Configuration Management with Ansible](#section-174-configuration-management-with-ansible)
+        - [17.4.1 Ansible Overview](#1741-ansible-overview)
+        - [17.4.2 Playbook Development](#1742-playbook-development)
+      - [Section 17.5: Orchestration with Puppet and Chef](#section-175-orchestration-with-puppet-and-chef)
+        - [17.5.1 Puppet](#1751-puppet)
+        - [17.5.2 Chef](#1752-chef)
+      - [Section 17.6: Conclusion](#section-176-conclusion)
+
 ## Chapter 17: Linux System Automation
 
 #### Section 17.1: Introduction to System Automation

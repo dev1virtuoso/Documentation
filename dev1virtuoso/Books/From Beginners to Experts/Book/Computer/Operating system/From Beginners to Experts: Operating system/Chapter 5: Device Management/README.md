@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 5: Device Management](#chapter-5-device-management)
+      - [Section 5.1: Device Management Fundamentals](#section-51-device-management-fundamentals)
+        - [5.1.1: Device Detection](#511-device-detection)
+        - [5.1.2: Device Abstraction](#512-device-abstraction)
+      - [Section 5.2: Device Drivers](#section-52-device-drivers)
+        - [5.2.1: Driver Architecture](#521-driver-architecture)
+        - [5.2.2: Driver Development](#522-driver-development)
+      - [Section 5.3: I/O Operations](#section-53-io-operations)
+        - [5.3.1: I/O System Calls](#531-io-system-calls)
+        - [5.3.2: I/O Scheduling](#532-io-scheduling)
+      - [Section 5.4: Device Management Best Practices](#section-54-device-management-best-practices)
+        - [5.4.1: Device Monitoring](#541-device-monitoring)
+        - [5.4.2: Device Security](#542-device-security)
+      - [Conclusion](#conclusion)
+
 ## Chapter 5: Device Management
 
 Device management is a crucial aspect of operating systems, overseeing the interaction between software and hardware components, managing device configurations, facilitating device communication, and ensuring seamless data exchange between devices and the operating system. This chapter explores the principles of device management, device drivers, I/O operations, and best practices for optimizing device functionality in operating systems.

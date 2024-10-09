@@ -1,5 +1,24 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 9: Theoretical Computer Science](#chapter-9-theoretical-computer-science)
+    - [Section 9.1: Introduction to Theoretical Computer Science](#section-91-introduction-to-theoretical-computer-science)
+      - [9.1.1 What is Theoretical Computer Science?](#911-what-is-theoretical-computer-science)
+      - [9.1.2 Core Areas of Theoretical Computer Science](#912-core-areas-of-theoretical-computer-science)
+    - [Section 9.2: Automata Theory](#section-92-automata-theory)
+      - [9.2.1 Finite Automata](#921-finite-automata)
+      - [9.2.2 Pushdown Automata](#922-pushdown-automata)
+      - [9.2.3 Turing Machines](#923-turing-machines)
+    - [Section 9.3: Computational Complexity Theory](#section-93-computational-complexity-theory)
+      - [9.3.1 P vs. NP Problem](#931-p-vs-np-problem)
+      - [9.3.2 Complexity Classes](#932-complexity-classes)
+    - [Section 9.4: Algorithms](#section-94-algorithms)
+      - [9.4.1 Algorithm Design Techniques](#941-algorithm-design-techniques)
+    - [Section 9.5: Formal Languages and Computability](#section-95-formal-languages-and-computability)
+      - [9.5.1 Chomsky Hierarchy](#951-chomsky-hierarchy)
+    - [Section 9.6: Conclusion](#section-96-conclusion)
+
 ## Chapter 9: Theoretical Computer Science
 
 ### Section 9.1: Introduction to Theoretical Computer Science

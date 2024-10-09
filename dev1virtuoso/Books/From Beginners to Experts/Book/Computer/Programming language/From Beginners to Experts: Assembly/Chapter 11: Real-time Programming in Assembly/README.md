@@ -1,5 +1,6 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+
 ## Chapter 11: Real-time Programming in Assembly
 
 In this chapter, we will explore the intricacies of real-time programming using assembly language. Real-time systems demand deterministic responses to external stimuli within strict timing constraints. Assembly language, with its low-level control and direct hardware interaction capabilities, is well-suited for developing real-time applications where precise timing, minimal latency, and deterministic behavior are essential.

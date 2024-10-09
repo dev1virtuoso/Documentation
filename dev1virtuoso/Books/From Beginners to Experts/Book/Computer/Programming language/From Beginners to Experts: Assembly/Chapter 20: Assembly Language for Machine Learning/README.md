@@ -1,5 +1,15 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 20: Assembly Language for Machine Learning](#chapter-20-assembly-language-for-machine-learning)
+      - [Section 20.1: Introduction to Machine Learning](#section-201-introduction-to-machine-learning)
+      - [Section 20.2: Neural Network Optimization and Acceleration](#section-202-neural-network-optimization-and-acceleration)
+      - [Section 20.3: Algorithm Optimization and Performance Tuning](#section-203-algorithm-optimization-and-performance-tuning)
+      - [Section 20.4: Data Processing and Feature Engineering](#section-204-data-processing-and-feature-engineering)
+      - [Section 20.5: Case Study: Machine Learning Example in Assembly Language](#section-205-case-study-machine-learning-example-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 20: Assembly Language for Machine Learning
 
 In this chapter, we explore the intriguing fusion of assembly language and machine learning, investigating how low-level programming can enhance the performance, optimize algorithms, and accelerate computations in the realm of artificial intelligence, deep learning, and machine learning applications. Machine learning leverages statistical models, neural networks, and computational algorithms to analyze data, learn patterns, and make predictions, enabling machines to perform tasks, recognize patterns, and make decisions based on data. Assembly language programming plays a crucial role in machine learning for optimizing code efficiency, accelerating neural network computations, and enhancing performance in training models, making predictions, and processing data in machine learning applications.

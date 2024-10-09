@@ -1,5 +1,28 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 15: Quantum Computing](#chapter-15-quantum-computing)
+      - [Section 15.1: Introduction to Quantum Computing](#section-151-introduction-to-quantum-computing)
+        - [15.1.1 Understanding Quantum Mechanics](#1511-understanding-quantum-mechanics)
+        - [15.1.2 Quantum Bits (Qubits)](#1512-quantum-bits-qubits)
+      - [Section 15.2: Quantum Computing Models](#section-152-quantum-computing-models)
+        - [15.2.1 Quantum Circuit Model](#1521-quantum-circuit-model)
+        - [15.2.2 Quantum Annealing](#1522-quantum-annealing)
+      - [Section 15.3: Quantum Algorithms](#section-153-quantum-algorithms)
+        - [15.3.1 Shor's Algorithm](#1531-shors-algorithm)
+        - [15.3.2 Grover's Algorithm](#1532-grovers-algorithm)
+      - [Section 15.4: Quantum Computing Technologies](#section-154-quantum-computing-technologies)
+        - [15.4.1 Quantum Hardware](#1541-quantum-hardware)
+        - [15.4.2 Quantum Software Development](#1542-quantum-software-development)
+      - [Section 15.5: Applications of Quantum Computing](#section-155-applications-of-quantum-computing)
+        - [15.5.1 Cryptography](#1551-cryptography)
+        - [15.5.2 Optimization](#1552-optimization)
+      - [Section 15.6: Challenges and Future Directions](#section-156-challenges-and-future-directions)
+        - [15.6.1 Error Correction](#1561-error-correction)
+        - [15.6.2 Scalability](#1562-scalability)
+      - [Section 15.7: Conclusion](#section-157-conclusion)
+
 ## Chapter 15: Quantum Computing
 
 #### Section 15.1: Introduction to Quantum Computing

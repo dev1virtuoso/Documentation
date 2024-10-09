@@ -1,5 +1,25 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 8: Distributed Systems](#chapter-8-distributed-systems)
+      - [Section 8.1: Understanding Distributed Systems](#section-81-understanding-distributed-systems)
+        - [8.1.1: Distributed System Overview](#811-distributed-system-overview)
+        - [8.1.2: Characteristics of Distributed Systems](#812-characteristics-of-distributed-systems)
+      - [Section 8.2: Distributed System Architectures](#section-82-distributed-system-architectures)
+        - [8.2.1: Client-Server Architecture](#821-client-server-architecture)
+        - [8.2.2: Peer-to-Peer Architecture](#822-peer-to-peer-architecture)
+      - [Section 8.3: Communication in Distributed Systems](#section-83-communication-in-distributed-systems)
+        - [8.3.1: Message Passing](#831-message-passing)
+        - [8.3.2: Remote Procedure Calls (RPC)](#832-remote-procedure-calls-rpc)
+      - [Section 8.4: Coordination and Consistency](#section-84-coordination-and-consistency)
+        - [8.4.1: Distributed Coordination](#841-distributed-coordination)
+        - [8.4.2: Consistency Models](#842-consistency-models)
+      - [Section 8.5: Challenges in Distributed Systems](#section-85-challenges-in-distributed-systems)
+        - [8.5.1: Fault Tolerance](#851-fault-tolerance)
+        - [8.5.2: Scalability](#852-scalability)
+      - [Conclusion](#conclusion)
+
 ## Chapter 8: Distributed Systems
 
 In the realm of computer science, distributed systems play a pivotal role in enabling collaboration, scalability, and fault tolerance across interconnected nodes. This chapter delves into the fundamental aspects of distributed systems, exploring key concepts, architectures, communication protocols, coordination mechanisms, and challenges associated with designing and managing distributed systems effectively.

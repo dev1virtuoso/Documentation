@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 7: Virtualization and Cloud Computing](#chapter-7-virtualization-and-cloud-computing)
+      - [Section 7.1: Understanding Virtualization](#section-71-understanding-virtualization)
+        - [7.1.1: Virtualization Overview](#711-virtualization-overview)
+        - [7.1.2: Types of Virtualization](#712-types-of-virtualization)
+      - [Section 7.2: Cloud Computing Models](#section-72-cloud-computing-models)
+        - [7.2.1: Cloud Deployment Models](#721-cloud-deployment-models)
+        - [7.2.2: Cloud Service Models](#722-cloud-service-models)
+      - [Section 7.3: Virtual Machine Management](#section-73-virtual-machine-management)
+        - [7.3.1: Virtual Machine Provisioning](#731-virtual-machine-provisioning)
+        - [7.3.2: Virtual Machine Monitoring](#732-virtual-machine-monitoring)
+      - [Section 7.4: Cloud Deployment Strategies](#section-74-cloud-deployment-strategies)
+        - [7.4.1: Cloud Migration](#741-cloud-migration)
+        - [7.4.2: Cloud Security](#742-cloud-security)
+      - [Conclusion](#conclusion)
+
 ## Chapter 7: Virtualization and Cloud Computing
 
 Virtualization and cloud computing have transformed the landscape of IT infrastructure, offering scalability, flexibility, and efficiency through virtualized environments and cloud services. This chapter delves into the core concepts of virtualization, various cloud computing models, virtual machine management, cloud deployment strategies, and best practices for leveraging these technologies effectively in modern computing environments.

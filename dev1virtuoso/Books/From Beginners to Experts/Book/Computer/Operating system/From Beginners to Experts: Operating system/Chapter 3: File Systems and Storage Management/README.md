@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 3: File Systems and Storage Management](#chapter-3-file-systems-and-storage-management)
+      - [Section 3.1: Understanding File Systems](#section-31-understanding-file-systems)
+        - [3.1.1: File System Overview](#311-file-system-overview)
+        - [3.1.2: File System Components](#312-file-system-components)
+      - [Section 3.2: Storage Technologies](#section-32-storage-technologies)
+        - [3.2.1: Hard Disk Drives (HDDs)](#321-hard-disk-drives-hdds)
+        - [3.2.2: Solid State Drives (SSDs)](#322-solid-state-drives-ssds)
+      - [Section 3.3: Data Organization and Management](#section-33-data-organization-and-management)
+        - [3.3.1: Data Storage Allocation](#331-data-storage-allocation)
+        - [3.3.2: Data Backup and Recovery](#332-data-backup-and-recovery)
+      - [Section 3.4: Storage Management Best Practices](#section-34-storage-management-best-practices)
+        - [3.4.1: Capacity Planning](#341-capacity-planning)
+        - [3.4.2: Data Deduplication and Compression](#342-data-deduplication-and-compression)
+      - [Conclusion](#conclusion)
+
 ## Chapter 3: File Systems and Storage Management
 
 File systems and storage management play a pivotal role in organizing, storing, and retrieving data efficiently within computing environments. This chapter delves into the principles of file systems, storage technologies, data organization techniques, and best practices for managing storage resources effectively in operating systems.

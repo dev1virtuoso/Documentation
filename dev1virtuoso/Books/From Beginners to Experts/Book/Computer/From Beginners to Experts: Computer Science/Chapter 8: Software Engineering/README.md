@@ -1,5 +1,22 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 8: Software Engineering](#chapter-8-software-engineering)
+    - [Section 8.1: Introduction to Software Engineering](#section-81-introduction-to-software-engineering)
+      - [8.1.1 What is Software Engineering?](#811-what-is-software-engineering)
+      - [8.1.2 Key Concepts in Software Engineering](#812-key-concepts-in-software-engineering)
+    - [Section 8.2: Software Development Life Cycle (SDLC)](#section-82-software-development-life-cycle-sdlc)
+      - [8.2.1 Phases of the SDLC](#821-phases-of-the-sdlc)
+    - [Section 8.3: Software Development Methodologies](#section-83-software-development-methodologies)
+      - [8.3.1 Waterfall Model](#831-waterfall-model)
+      - [8.3.2 Agile Methodology](#832-agile-methodology)
+      - [8.3.3 DevOps Practices](#833-devops-practices)
+    - [Section 8.4: Software Quality Assurance](#section-84-software-quality-assurance)
+      - [8.4.1 Importance of Software Quality](#841-importance-of-software-quality)
+      - [8.4.2 Testing Techniques](#842-testing-techniques)
+    - [Section 8.5: Conclusion](#section-85-conclusion)
+
 ## Chapter 8: Software Engineering
 
 ### Section 8.1: Introduction to Software Engineering

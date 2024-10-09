@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 18: Bioinformatics and Assembly Language](#chapter-18-bioinformatics-and-assembly-language)
+      - [Section 18.1: Introduction to Bioinformatics](#section-181-introduction-to-bioinformatics)
+      - [Section 18.2: Sequence Alignment and Homology Search](#section-182-sequence-alignment-and-homology-search)
+      - [Section 18.3: Genomic Data Analysis and Processing](#section-183-genomic-data-analysis-and-processing)
+      - [Section 18.4: Protein Structure Prediction and Modeling](#section-184-protein-structure-prediction-and-modeling)
+      - [Section 18.5: Bioinformatics Algorithms and Optimization](#section-185-bioinformatics-algorithms-and-optimization)
+      - [Section 18.6: Case Study: Bioinformatics Example in Assembly Language](#section-186-case-study-bioinformatics-example-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 18: Bioinformatics and Assembly Language
 
 In this chapter, we delve into the intersection of bioinformatics and assembly language, exploring how low-level programming can be utilized to analyze biological data, process genomic sequences, optimize algorithms, and enhance computational performance in bioinformatics applications. Bioinformatics blends biology, computer science, and statistics to decipher biological information, study genetic sequences, predict protein structures, and unravel complex biological processes using computational tools, algorithms, and data analysis techniques. Assembly language programming plays a critical role in bioinformatics for implementing efficient algorithms, optimizing code execution, and accelerating computations to enable researchers to analyze biological data, model biological systems, and advance research in genomics, proteomics, and molecular biology.

@@ -1,5 +1,17 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 7: Assembly Language Optimization](#chapter-7-assembly-language-optimization)
+      - [Section 7.1: Code Refactoring and Simplification](#section-71-code-refactoring-and-simplification)
+      - [Section 7.2: Instruction Selection and Pipelining](#section-72-instruction-selection-and-pipelining)
+      - [Section 7.3: Loop Optimization Techniques](#section-73-loop-optimization-techniques)
+      - [Section 7.4: Data Alignment and Memory Access Optimization](#section-74-data-alignment-and-memory-access-optimization)
+      - [Section 7.5: Compiler Optimization Techniques](#section-75-compiler-optimization-techniques)
+      - [Section 7.6: Profiling and Benchmarking](#section-76-profiling-and-benchmarking)
+      - [Section 7.7: Assembly Language Optimization Examples](#section-77-assembly-language-optimization-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 7: Assembly Language Optimization
 
 In this chapter, we will focus on the optimization strategies and techniques that can be applied to assembly language programming to enhance program performance, reduce resource consumption, and optimize code efficiency in low-level programming environments.

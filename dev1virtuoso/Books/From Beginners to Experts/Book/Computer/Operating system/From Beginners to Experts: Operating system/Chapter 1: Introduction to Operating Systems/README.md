@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 1: Introduction to Operating Systems](#chapter-1-introduction-to-operating-systems)
+      - [Section 1.1: Understanding Operating Systems](#section-11-understanding-operating-systems)
+        - [1.1.1: Definition of an Operating System](#111-definition-of-an-operating-system)
+        - [1.1.2: Core Functions of Operating Systems](#112-core-functions-of-operating-systems)
+      - [Section 1.2: Types of Operating Systems](#section-12-types-of-operating-systems)
+        - [1.2.1: Single-User, Single-Tasking Systems](#121-single-user-single-tasking-systems)
+        - [1.2.2: Multi-User, Multi-Tasking Systems](#122-multi-user-multi-tasking-systems)
+      - [Section 1.3: Significance of Operating Systems](#section-13-significance-of-operating-systems)
+        - [1.3.1: Resource Abstraction and Management](#131-resource-abstraction-and-management)
+        - [1.3.2: System Security and Protection](#132-system-security-and-protection)
+      - [Section 1.4: Evolution of Operating Systems](#section-14-evolution-of-operating-systems)
+        - [1.4.1: Historical Perspectives](#141-historical-perspectives)
+        - [1.4.2: Current Trends and Innovations](#142-current-trends-and-innovations)
+      - [Conclusion](#conclusion)
+
 ## Chapter 1: Introduction to Operating Systems
 
 Operating systems (OS) serve as the fundamental software layer that manages computer hardware resources, facilitates user interactions, and enables the execution of applications. This chapter provides a foundational overview of operating systems, their key functions, types, and significance in modern computing.

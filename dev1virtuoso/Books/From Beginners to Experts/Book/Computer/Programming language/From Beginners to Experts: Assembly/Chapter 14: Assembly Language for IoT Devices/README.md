@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 14: Assembly Language for IoT Devices](#chapter-14-assembly-language-for-iot-devices)
+      - [Section 14.1: Introduction to IoT Device Programming](#section-141-introduction-to-iot-device-programming)
+      - [Section 14.2: Embedded Systems Development and Hardware Interaction](#section-142-embedded-systems-development-and-hardware-interaction)
+      - [Section 14.3: Sensor Data Acquisition and Processing](#section-143-sensor-data-acquisition-and-processing)
+      - [Section 14.4: Communication Protocols and Networking](#section-144-communication-protocols-and-networking)
+      - [Section 14.5: Power Management and Energy Efficiency](#section-145-power-management-and-energy-efficiency)
+      - [Section 14.6: Case Study: IoT Device Firmware in Assembly Language](#section-146-case-study-iot-device-firmware-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 14: Assembly Language for IoT Devices
 
 In this chapter, we will explore the significance of assembly language in the context of Internet of Things (IoT) devices. IoT devices are embedded systems that connect physical devices, sensors, and actuators to the internet, enabling data collection, communication, and automation in various domains such as smart homes, industrial automation, healthcare, and transportation. Assembly language, with its low-level control, minimal resource footprint, and direct hardware access capabilities, plays a crucial role in IoT device programming, enabling developers to optimize code size, enhance performance, and interact with hardware peripherals efficiently in resource-constrained IoT environments.

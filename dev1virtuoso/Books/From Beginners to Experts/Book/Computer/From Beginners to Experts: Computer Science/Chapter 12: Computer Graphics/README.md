@@ -1,5 +1,28 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 12: Computer Graphics](#chapter-12-computer-graphics)
+    - [Section 12.1: Introduction to Computer Graphics](#section-121-introduction-to-computer-graphics)
+      - [12.1.1 What is Computer Graphics?](#1211-what-is-computer-graphics)
+      - [12.1.2 Applications of Computer Graphics](#1212-applications-of-computer-graphics)
+    - [Section 12.2: Graphics Rendering Pipeline](#section-122-graphics-rendering-pipeline)
+      - [12.2.1 Overview of the Rendering Pipeline](#1221-overview-of-the-rendering-pipeline)
+      - [12.2.2 Shading and Lighting](#1222-shading-and-lighting)
+    - [Section 12.3: 2D and 3D Graphics](#section-123-2d-and-3d-graphics)
+      - [12.3.1 2D Graphics](#1231-2d-graphics)
+      - [12.3.2 3D Graphics](#1232-3d-graphics)
+    - [Section 12.4: Computer Graphics Algorithms](#section-124-computer-graphics-algorithms)
+      - [12.4.1 Line Drawing Algorithms](#1241-line-drawing-algorithms)
+      - [12.4.2 Polygon Filling Algorithms](#1242-polygon-filling-algorithms)
+    - [Section 12.5: Graphics Libraries and APIs](#section-125-graphics-libraries-and-apis)
+      - [12.5.1 OpenGL and WebGL](#1251-opengl-and-webgl)
+      - [12.5.2 DirectX](#1252-directx)
+    - [Section 12.6: Virtual Reality and Augmented Reality](#section-126-virtual-reality-and-augmented-reality)
+      - [12.6.1 Virtual Reality (VR)](#1261-virtual-reality-vr)
+      - [12.6.2 Augmented Reality (AR)](#1262-augmented-reality-ar)
+    - [Section 12.7: Conclusion](#section-127-conclusion)
+
 ## Chapter 12: Computer Graphics
 
 ### Section 12.1: Introduction to Computer Graphics

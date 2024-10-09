@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 20: Bioinformatics and Computational Biology](#chapter-20-bioinformatics-and-computational-biology)
+      - [Section 20.1: Introduction to Bioinformatics](#section-201-introduction-to-bioinformatics)
+        - [20.1.1 Bioinformatics Fundamentals](#2011-bioinformatics-fundamentals)
+        - [20.1.2 Role of Computational Biology](#2012-role-of-computational-biology)
+      - [Section 20.2: Genomics and Sequence Analysis](#section-202-genomics-and-sequence-analysis)
+        - [20.2.1 Genome Sequencing](#2021-genome-sequencing)
+        - [20.2.2 Sequence Alignment](#2022-sequence-alignment)
+      - [Section 20.3: Structural Bioinformatics](#section-203-structural-bioinformatics)
+        - [20.3.1 Protein Structure Prediction](#2031-protein-structure-prediction)
+        - [20.3.2 Molecular Docking](#2032-molecular-docking)
+      - [Section 20.4: Systems Biology and Biological Networks](#section-204-systems-biology-and-biological-networks)
+        - [20.4.1 Systems Biology Approaches](#2041-systems-biology-approaches)
+        - [20.4.2 Network Analysis](#2042-network-analysis)
+      - [Section 20.5: Challenges and Future Directions](#section-205-challenges-and-future-directions)
+        - [20.5.1 Big Data in Bioinformatics](#2051-big-data-in-bioinformatics)
+        - [20.5.2 Personalized Medicine and Precision Health](#2052-personalized-medicine-and-precision-health)
+      - [Section 20.6: Conclusion](#section-206-conclusion)
+
 ## Chapter 20: Bioinformatics and Computational Biology
 
 #### Section 20.1: Introduction to Bioinformatics

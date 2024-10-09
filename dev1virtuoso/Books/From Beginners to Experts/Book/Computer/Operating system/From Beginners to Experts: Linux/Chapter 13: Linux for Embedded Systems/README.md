@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 13: Linux for Embedded Systems](#chapter-13-linux-for-embedded-systems)
+      - [Section 13.1: Introduction to Embedded Systems](#section-131-introduction-to-embedded-systems)
+        - [13.1.1 Embedded Systems Overview](#1311-embedded-systems-overview)
+        - [13.1.2 Role of Linux in Embedded Systems](#1312-role-of-linux-in-embedded-systems)
+      - [Section 13.2: Building Embedded Linux Systems](#section-132-building-embedded-linux-systems)
+        - [13.2.1 Customizing Linux for Embedded Platforms](#1321-customizing-linux-for-embedded-platforms)
+        - [13.2.2 Building Embedded Linux Distributions](#1322-building-embedded-linux-distributions)
+      - [Section 13.3: Device Drivers and Kernel Modules](#section-133-device-drivers-and-kernel-modules)
+        - [13.3.1 Developing Device Drivers](#1331-developing-device-drivers)
+        - [13.3.2 Kernel Modules in Embedded Systems](#1332-kernel-modules-in-embedded-systems)
+      - [Section 13.4: Real-Time Capabilities in Embedded Linux](#section-134-real-time-capabilities-in-embedded-linux)
+        - [13.4.1 Real-Time Linux Kernels](#1341-real-time-linux-kernels)
+        - [13.4.2 Real-Time Task Scheduling](#1342-real-time-task-scheduling)
+      - [Section 13.5: System Optimization and Security](#section-135-system-optimization-and-security)
+        - [13.5.1 System Optimization Techniques](#1351-system-optimization-techniques)
+        - [13.5.2 Embedded System Security](#1352-embedded-system-security)
+      - [Section 13.6: Conclusion](#section-136-conclusion)
+
 ## Chapter 13: Linux for Embedded Systems
 
 #### Section 13.1: Introduction to Embedded Systems

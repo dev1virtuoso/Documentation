@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 19: Assembly Language in High-Performance Computing](#chapter-19-assembly-language-in-high-performance-computing)
+      - [Section 19.1: Introduction to High-Performance Computing](#section-191-introduction-to-high-performance-computing)
+      - [Section 19.2: Parallel Computing and SIMD Optimization](#section-192-parallel-computing-and-simd-optimization)
+      - [Section 19.3: Vectorization and Instruction-Level Optimization](#section-193-vectorization-and-instruction-level-optimization)
+      - [Section 19.4: Memory Hierarchy and Cache Optimization](#section-194-memory-hierarchy-and-cache-optimization)
+      - [Section 19.5: Performance Profiling and Tuning](#section-195-performance-profiling-and-tuning)
+      - [Section 19.6: Case Study: High-Performance Computing Example in Assembly Language](#section-196-case-study-high-performance-computing-example-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 19: Assembly Language in High-Performance Computing
 
 In this chapter, we delve into the realm of high-performance computing (HPC) and explore the critical role of assembly language in optimizing code performance, accelerating computations, and leveraging hardware capabilities to achieve peak performance in scientific simulations, numerical computations, and data-intensive applications. High-performance computing harnesses parallel processing, vectorization, and optimization techniques to solve complex computational problems, simulate physical phenomena, and analyze large datasets with high efficiency and speed using supercomputers, clusters, and accelerators. Assembly language programming is essential in high-performance computing for exploiting hardware features, optimizing algorithms, and fine-tuning code performance to enable researchers, scientists, and engineers to achieve maximum computational efficiency and scalability in HPC applications.

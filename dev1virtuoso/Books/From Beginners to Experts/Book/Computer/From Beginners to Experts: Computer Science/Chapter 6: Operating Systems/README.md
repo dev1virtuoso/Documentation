@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 6: Operating Systems](#chapter-6-operating-systems)
+    - [Section 6.1: Introduction to Operating Systems](#section-61-introduction-to-operating-systems)
+      - [6.1.1 What is an Operating System?](#611-what-is-an-operating-system)
+      - [6.1.2 Functions of an Operating System](#612-functions-of-an-operating-system)
+    - [Section 6.2: Types of Operating Systems](#section-62-types-of-operating-systems)
+      - [6.2.1 Single-User, Single-Tasking Systems](#621-single-user-single-tasking-systems)
+      - [6.2.2 Single-User, Multi-Tasking Systems](#622-single-user-multi-tasking-systems)
+      - [6.2.3 Multi-User Operating Systems](#623-multi-user-operating-systems)
+      - [6.2.4 Real-Time Operating Systems](#624-real-time-operating-systems)
+    - [Section 6.3: Operating System Components](#section-63-operating-system-components)
+      - [6.3.1 Kernel](#631-kernel)
+      - [6.3.2 Shell](#632-shell)
+      - [6.3.3 File System](#633-file-system)
+    - [Section 6.4: Operating System Concepts](#section-64-operating-system-concepts)
+      - [6.4.1 Process Scheduling](#641-process-scheduling)
+      - [6.4.2 Memory Management](#642-memory-management)
+    - [Section 6.5: Conclusion](#section-65-conclusion)
+
 ## Chapter 6: Operating Systems
 
 ### Section 6.1: Introduction to Operating Systems

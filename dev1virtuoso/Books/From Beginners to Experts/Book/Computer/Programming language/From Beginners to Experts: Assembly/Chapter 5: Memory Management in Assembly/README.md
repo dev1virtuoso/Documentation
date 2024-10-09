@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 5: Memory Management in Assembly](#chapter-5-memory-management-in-assembly)
+      - [Section 5.1: Memory Segmentation](#section-51-memory-segmentation)
+      - [Section 5.2: Memory Addressing Modes](#section-52-memory-addressing-modes)
+      - [Section 5.3: Stack Operations](#section-53-stack-operations)
+      - [Section 5.4: Heap Management](#section-54-heap-management)
+      - [Section 5.5: Memory Protection and Segmentation Faults](#section-55-memory-protection-and-segmentation-faults)
+      - [Section 5.6: Memory Management Examples in Assembly Language](#section-56-memory-management-examples-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 5: Memory Management in Assembly
 
 In this chapter, we will delve into the intricacies of memory management in assembly language programming. Memory management plays a crucial role in allocating, accessing, and releasing memory resources efficiently within programs, ensuring optimal utilization of system memory and data storage.

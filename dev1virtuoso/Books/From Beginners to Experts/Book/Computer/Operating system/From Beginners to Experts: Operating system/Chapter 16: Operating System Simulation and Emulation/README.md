@@ -1,5 +1,19 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 16: Operating System Simulation and Emulation](#chapter-16-operating-system-simulation-and-emulation)
+      - [Section 16.1: Understanding OS Simulation and Emulation](#section-161-understanding-os-simulation-and-emulation)
+        - [16.1.1: Simulation vs. Emulation](#1611-simulation-vs-emulation)
+        - [16.1.2: Use Cases and Applications](#1612-use-cases-and-applications)
+      - [Section 16.2: Simulation and Emulation Tools](#section-162-simulation-and-emulation-tools)
+        - [16.2.1: QEMU (Quick EMUlator)](#1621-qemu-quick-emulator)
+        - [16.2.2: Bochs](#1622-bochs)
+      - [Section 16.3: Educational Applications](#section-163-educational-applications)
+        - [16.3.1: Teaching Operating System Concepts](#1631-teaching-operating-system-concepts)
+        - [16.3.2: Research and Development](#1632-research-and-development)
+      - [Conclusion](#conclusion)
+
 ## Chapter 16: Operating System Simulation and Emulation
 
 Operating system simulation and emulation techniques play a critical role in software development, system testing, and educational environments, enabling developers, researchers, and students to explore, analyze, and experiment with diverse operating system functionalities, behaviors, and configurations. This chapter delves into the concepts, applications, and benefits of operating system simulation and emulation, shedding light on the principles, tools, and best practices involved in replicating OS environments for a wide range of purposes.

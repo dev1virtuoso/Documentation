@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 20: Ethical and Legal Aspects of Operating Systems](#chapter-20-ethical-and-legal-aspects-of-operating-systems)
+      - [Section 20.1: Privacy and Data Protection](#section-201-privacy-and-data-protection)
+        - [20.1.1: User Data Handling](#2011-user-data-handling)
+        - [20.1.2: Data Sharing Practices](#2012-data-sharing-practices)
+      - [Section 20.2: Security and Vulnerability Management](#section-202-security-and-vulnerability-management)
+        - [20.2.1: Cybersecurity Threats](#2021-cybersecurity-threats)
+        - [20.2.2: Secure Boot and Secure Enclaves](#2022-secure-boot-and-secure-enclaves)
+      - [Section 20.3: Transparency and Accountability](#section-203-transparency-and-accountability)
+        - [20.3.1: Open Source Initiatives](#2031-open-source-initiatives)
+        - [20.3.2: Algorithmic Bias and Fairness](#2032-algorithmic-bias-and-fairness)
+      - [Section 20.4: Legal Compliance and Regulatory Frameworks](#section-204-legal-compliance-and-regulatory-frameworks)
+        - [20.4.1: Data Protection Regulations](#2041-data-protection-regulations)
+        - [20.4.2: Intellectual Property Rights](#2042-intellectual-property-rights)
+      - [Conclusion](#conclusion)
+
 ## Chapter 20: Ethical and Legal Aspects of Operating Systems
 
 Operating systems are the backbone of modern computing infrastructure, shaping how data is processed, stored, and accessed on a wide range of devices and platforms. This chapter explores the ethical and legal considerations surrounding operating systems, addressing issues of privacy, security, transparency, and accountability in the design, development, and deployment of operating systems in today's interconnected digital landscape.

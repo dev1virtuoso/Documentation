@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 9: Advanced Operating System Concepts](#chapter-9-advanced-operating-system-concepts)
+      - [Section 9.1: Process Synchronization](#section-91-process-synchronization)
+        - [9.1.1: Introduction to Process Synchronization](#911-introduction-to-process-synchronization)
+        - [9.1.2: Deadlock Handling](#912-deadlock-handling)
+      - [Section 9.2: Memory Management](#section-92-memory-management)
+        - [9.2.1: Memory Hierarchy](#921-memory-hierarchy)
+        - [9.2.2: Virtual Memory](#922-virtual-memory)
+      - [Section 9.3: File Systems](#section-93-file-systems)
+        - [9.3.1: File System Structure](#931-file-system-structure)
+        - [9.3.2: File System Operations](#932-file-system-operations)
+      - [Section 9.4: Virtualization Techniques](#section-94-virtualization-techniques)
+        - [9.4.1: Hardware Virtualization](#941-hardware-virtualization)
+        - [9.4.2: Containerization](#942-containerization)
+      - [Conclusion](#conclusion)
+
 ## Chapter 9: Advanced Operating System Concepts
 
 Operating systems serve as the foundation of computer systems, managing hardware resources, providing abstractions for applications, and ensuring efficient and secure operation. This chapter delves into advanced operating system concepts, exploring topics such as process synchronization, memory management, file systems, and virtualization techniques that underpin modern operating systems.

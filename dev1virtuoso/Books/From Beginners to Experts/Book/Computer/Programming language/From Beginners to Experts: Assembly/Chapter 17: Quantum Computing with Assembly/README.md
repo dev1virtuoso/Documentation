@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 17: Quantum Computing with Assembly](#chapter-17-quantum-computing-with-assembly)
+      - [Section 17.1: Introduction to Quantum Computing](#section-171-introduction-to-quantum-computing)
+      - [Section 17.2: Quantum Gates and Circuit Design](#section-172-quantum-gates-and-circuit-design)
+      - [Section 17.3: Quantum Algorithms and Optimization](#section-173-quantum-algorithms-and-optimization)
+      - [Section 17.4: Quantum Simulation and Quantum Programming](#section-174-quantum-simulation-and-quantum-programming)
+      - [Section 17.5: Quantum Error Correction and Fault Tolerance](#section-175-quantum-error-correction-and-fault-tolerance)
+      - [Section 17.6: Case Study: Quantum Computing Example in Assembly Language](#section-176-case-study-quantum-computing-example-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 17: Quantum Computing with Assembly
 
 In this chapter, we embark on a journey into the realm of quantum computing with assembly language, exploring how low-level programming can be used to interface with quantum processors, implement quantum algorithms, and optimize code execution for quantum computing systems. Quantum computing harnesses the principles of quantum mechanics to perform computations using quantum bits (qubits) that can exist in superposition states and entangled states, enabling quantum computers to solve complex problems exponentially faster than classical computers in diverse application domains such as cryptography, optimization, and simulation.

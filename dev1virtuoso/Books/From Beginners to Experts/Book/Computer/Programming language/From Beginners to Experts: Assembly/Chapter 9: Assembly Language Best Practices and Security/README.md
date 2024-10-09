@@ -1,5 +1,17 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 9: Assembly Language Best Practices and Security](#chapter-9-assembly-language-best-practices-and-security)
+      - [Section 9.1: Code Documentation and Comments](#section-91-code-documentation-and-comments)
+      - [Section 9.2: Modular Code Design](#section-92-modular-code-design)
+      - [Section 9.3: Error Handling and Exception Mechanisms](#section-93-error-handling-and-exception-mechanisms)
+      - [Section 9.4: Secure Coding Practices](#section-94-secure-coding-practices)
+      - [Section 9.5: Memory Management and Resource Optimization](#section-95-memory-management-and-resource-optimization)
+      - [Section 9.6: Code Review and Testing Procedures](#section-96-code-review-and-testing-procedures)
+      - [Section 9.7: Secure Assembly Language Examples](#section-97-secure-assembly-language-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 9: Assembly Language Best Practices and Security
 
 In this chapter, we will delve into assembly language best practices and security considerations to aid in the development of robust, efficient, and secure software solutions in low-level programming environments. Understanding best practices and security principles is crucial for ensuring code reliability, performance optimization, and protection against vulnerabilities in assembly language programs.

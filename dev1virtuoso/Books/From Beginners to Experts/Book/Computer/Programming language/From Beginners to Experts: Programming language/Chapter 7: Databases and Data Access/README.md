@@ -1,3 +1,7 @@
 # From Beginners to Experts: Programming Languages
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Programming Languages](#from-beginners-to-experts-programming-languages)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 7: Databases and Data Access](#chapter-7-databases-and-data-access)
+
 ## Chapter 7: Databases and Data Access

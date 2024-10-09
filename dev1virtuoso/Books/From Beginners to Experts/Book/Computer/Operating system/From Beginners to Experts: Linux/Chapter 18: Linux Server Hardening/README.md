@@ -1,5 +1,25 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 18: Linux Server Hardening](#chapter-18-linux-server-hardening)
+      - [Section 18.1: Understanding Server Hardening](#section-181-understanding-server-hardening)
+        - [18.1.1: Server Hardening Fundamentals](#1811-server-hardening-fundamentals)
+        - [18.1.2: Significance of Server Hardening](#1812-significance-of-server-hardening)
+      - [Section 18.2: Strengthening System Integrity](#section-182-strengthening-system-integrity)
+        - [18.2.1: Patch Management](#1821-patch-management)
+        - [18.2.2: Service Hardening](#1822-service-hardening)
+      - [Section 18.3: User Access Control](#section-183-user-access-control)
+        - [18.3.1: User Authentication Policies](#1831-user-authentication-policies)
+        - [18.3.2: Privilege Management](#1832-privilege-management)
+      - [Section 18.4: Network Security Implementation](#section-184-network-security-implementation)
+        - [18.4.1: Firewall Protection](#1841-firewall-protection)
+        - [18.4.2: Secure Remote Access](#1842-secure-remote-access)
+      - [Section 18.5: File System Security Measures](#section-185-file-system-security-measures)
+        - [18.5.1: File Permissions and Encryption](#1851-file-permissions-and-encryption)
+        - [18.5.2: Backup and Recovery Strategies](#1852-backup-and-recovery-strategies)
+      - [Conclusion](#conclusion)
+
 ## Chapter 18: Linux Server Hardening
 
 In today's interconnected world, securing Linux servers is of paramount importance to safeguard data, maintain system integrity, and protect against cyber threats. This chapter delves into essential strategies for hardening Linux servers, ensuring robust defense mechanisms and mitigating potential vulnerabilities.

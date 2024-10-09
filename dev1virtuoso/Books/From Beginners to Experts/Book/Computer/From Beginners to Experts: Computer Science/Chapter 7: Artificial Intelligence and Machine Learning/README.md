@@ -1,5 +1,24 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 7: Artificial Intelligence and Machine Learning](#chapter-7-artificial-intelligence-and-machine-learning)
+    - [Section 7.1: Introduction to Artificial Intelligence](#section-71-introduction-to-artificial-intelligence)
+      - [7.1.1 What is Artificial Intelligence?](#711-what-is-artificial-intelligence)
+      - [7.1.2 Types of Artificial Intelligence](#712-types-of-artificial-intelligence)
+    - [Section 7.2: Machine Learning Basics](#section-72-machine-learning-basics)
+      - [7.2.1 What is Machine Learning?](#721-what-is-machine-learning)
+      - [7.2.2 Types of Machine Learning](#722-types-of-machine-learning)
+    - [Section 7.3: Applications of AI and Machine Learning](#section-73-applications-of-ai-and-machine-learning)
+      - [7.3.1 Natural Language Processing (NLP)](#731-natural-language-processing-nlp)
+      - [7.3.2 Computer Vision](#732-computer-vision)
+      - [7.3.3 Healthcare and Medicine](#733-healthcare-and-medicine)
+    - [Section 7.4: Ethics and Challenges in AI](#section-74-ethics-and-challenges-in-ai)
+      - [7.4.1 Ethical Considerations](#741-ethical-considerations)
+      - [7.4.2 Challenges in AI Development](#742-challenges-in-ai-development)
+    - [Section 7.5: Future of AI and Machine Learning](#section-75-future-of-ai-and-machine-learning)
+    - [Section 7.6: Conclusion](#section-76-conclusion)
+
 ## Chapter 7: Artificial Intelligence and Machine Learning
 
 ### Section 7.1: Introduction to Artificial Intelligence

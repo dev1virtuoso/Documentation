@@ -1,5 +1,22 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 7: Linux for Development and Operations](#chapter-7-linux-for-development-and-operations)
+      - [Section 7.1: Development Environment Setup](#section-71-development-environment-setup)
+        - [7.1.1 Development Tools on Linux](#711-development-tools-on-linux)
+        - [7.1.2 Customizing Development Environments](#712-customizing-development-environments)
+      - [Section 7.2: Continuous Integration and Deployment](#section-72-continuous-integration-and-deployment)
+        - [7.2.1 CI/CD Pipelines](#721-cicd-pipelines)
+        - [7.2.2 Infrastructure as Code](#722-infrastructure-as-code)
+      - [Section 7.3: DevOps Practices and Workflows](#section-73-devops-practices-and-workflows)
+        - [7.3.1 DevOps Culture](#731-devops-culture)
+        - [7.3.2 Monitoring and Logging](#732-monitoring-and-logging)
+      - [Section 7.4: Cloud Computing and Serverless Architectures](#section-74-cloud-computing-and-serverless-architectures)
+        - [7.4.1 Cloud Services on Linux](#741-cloud-services-on-linux)
+        - [7.4.2 Serverless Computing](#742-serverless-computing)
+      - [Section 7.5: Conclusion](#section-75-conclusion)
+
 ## Chapter 7: Linux for Development and Operations
 
 #### Section 7.1: Development Environment Setup

@@ -1,5 +1,22 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 6: Advanced Topics in Linux](#chapter-6-advanced-topics-in-linux)
+      - [Section 6.1: Virtualization and Containerization](#section-61-virtualization-and-containerization)
+        - [6.1.1 Virtualization Technologies](#611-virtualization-technologies)
+        - [6.1.2 Containerization with Docker and Kubernetes](#612-containerization-with-docker-and-kubernetes)
+      - [Section 6.2: High Availability and Load Balancing](#section-62-high-availability-and-load-balancing)
+        - [6.2.1 High Availability Concepts](#621-high-availability-concepts)
+        - [6.2.2 Load Balancing Strategies](#622-load-balancing-strategies)
+      - [Section 6.3: Network Configuration and Security](#section-63-network-configuration-and-security)
+        - [6.3.1 Network Configuration Tools](#631-network-configuration-tools)
+        - [6.3.2 Network Security Practices](#632-network-security-practices)
+      - [Section 6.4: Automation and Configuration Management](#section-64-automation-and-configuration-management)
+        - [6.4.1 Automation Tools](#641-automation-tools)
+        - [6.4.2 Configuration Management Best Practices](#642-configuration-management-best-practices)
+      - [Section 6.5: Conclusion](#section-65-conclusion)
+
 ## Chapter 6: Advanced Topics in Linux
 
 #### Section 6.1: Virtualization and Containerization

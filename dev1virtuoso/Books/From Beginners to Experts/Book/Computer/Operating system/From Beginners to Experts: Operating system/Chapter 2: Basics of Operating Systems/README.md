@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 2: Basics of Operating Systems](#chapter-2-basics-of-operating-systems)
+      - [Section 2.1: Operating System Structure](#section-21-operating-system-structure)
+        - [2.1.1: Kernel](#211-kernel)
+        - [2.1.2: Shell](#212-shell)
+      - [Section 2.2: Operating System Functions](#section-22-operating-system-functions)
+        - [2.2.1: Process Management](#221-process-management)
+        - [2.2.2: Memory Management](#222-memory-management)
+      - [Section 2.3: File System Operations](#section-23-file-system-operations)
+        - [2.3.1: File Management](#231-file-management)
+        - [2.3.2: File System Types](#232-file-system-types)
+      - [Section 2.4: Device Management](#section-24-device-management)
+        - [2.4.1: Device Drivers](#241-device-drivers)
+        - [2.4.2: I/O Operations](#242-io-operations)
+      - [Conclusion](#conclusion)
+
 ## Chapter 2: Basics of Operating Systems
 
 Operating systems form the foundation of computing environments, managing hardware resources, providing user interfaces, and enabling application execution. This chapter delves into the fundamental concepts and components of operating systems, shedding light on their core functionalities and essential elements.

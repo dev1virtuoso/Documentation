@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 12: Reverse Engineering with Assembly](#chapter-12-reverse-engineering-with-assembly)
+      - [Section 12.1: Introduction to Reverse Engineering](#section-121-introduction-to-reverse-engineering)
+      - [Section 12.2: Disassembly and Decompilation Techniques](#section-122-disassembly-and-decompilation-techniques)
+      - [Section 12.3: Code Analysis and Program Understanding](#section-123-code-analysis-and-program-understanding)
+      - [Section 12.4: Reverse Engineering for Security Analysis](#section-124-reverse-engineering-for-security-analysis)
+      - [Section 12.5: Firmware Reverse Engineering and Hardware Hacking](#section-125-firmware-reverse-engineering-and-hardware-hacking)
+      - [Section 12.6: Case Study: Reverse Engineering in Action](#section-126-case-study-reverse-engineering-in-action)
+      - [Conclusion](#conclusion)
+
 ## Chapter 12: Reverse Engineering with Assembly
 
 In this chapter, we will delve into the fascinating world of reverse engineering using assembly language. Reverse engineering involves analyzing and understanding the inner workings of software, firmware, or hardware systems to uncover their functionality, structure, and behavior. Assembly language, with its low-level control, direct memory access, and hardware interaction capabilities, serves as a powerful tool for reverse engineers to dissect, analyze, and reconstruct software systems, uncovering hidden secrets and unlocking valuable insights into complex systems.

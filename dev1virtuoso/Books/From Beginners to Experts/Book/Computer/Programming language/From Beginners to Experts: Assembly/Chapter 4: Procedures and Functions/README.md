@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 4: Procedures and Functions](#chapter-4-procedures-and-functions)
+      - [Section 4.1: Procedure Calls](#section-41-procedure-calls)
+      - [Section 4.2: Parameter Passing](#section-42-parameter-passing)
+      - [Section 4.3: Local Variables and Stack Frames](#section-43-local-variables-and-stack-frames)
+      - [Section 4.4: Function Return Values](#section-44-function-return-values)
+      - [Section 4.5: Recursive Functions](#section-45-recursive-functions)
+      - [Section 4.6: Function Examples in Assembly Language](#section-46-function-examples-in-assembly-language)
+      - [Conclusion](#conclusion)
+
 ## Chapter 4: Procedures and Functions
 
 In this chapter, we will explore the concepts of procedures and functions in assembly language programming. Procedures and functions allow for code modularity, reusability, and structured organization, enabling programmers to encapsulate specific tasks into separate code blocks for efficient program development.

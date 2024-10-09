@@ -2,9 +2,9 @@
 
 On the 10th of each month, I release updates for my product. Typically, we use the General version for these releases to ensure the stability and proper functioning of the product. However, in certain special circumstances, we may deploy the Backup version to address any unexpected issues and guarantee the stability of user experience and product quality.
 
-## Table of Content
+## Table of Contents
 - [Project Code Name](#project-code-name)
-  - [Table of Content](#table-of-content)
+  - [Table of Contents](#table-of-content)
   - [General](#general)
   - [Backup](#backup)
 

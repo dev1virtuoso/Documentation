@@ -1,5 +1,22 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 8: Linux Performance Tuning](#chapter-8-linux-performance-tuning)
+      - [Section 8.1: Performance Monitoring and Analysis](#section-81-performance-monitoring-and-analysis)
+        - [8.1.1 Monitoring Tools](#811-monitoring-tools)
+        - [8.1.2 System Profiling](#812-system-profiling)
+      - [Section 8.2: Kernel Tuning and Optimization](#section-82-kernel-tuning-and-optimization)
+        - [8.2.1 Kernel Parameters](#821-kernel-parameters)
+        - [8.2.2 Kernel Modules](#822-kernel-modules)
+      - [Section 8.3: File System Performance Tuning](#section-83-file-system-performance-tuning)
+        - [8.3.1 File System Selection](#831-file-system-selection)
+        - [8.3.2 Disk I/O Optimization](#832-disk-io-optimization)
+      - [Section 8.4: Network Performance Optimization](#section-84-network-performance-optimization)
+        - [8.4.1 Network Configuration](#841-network-configuration)
+        - [8.4.2 Packet Filtering and Firewall Rules](#842-packet-filtering-and-firewall-rules)
+      - [Section 8.5: Conclusion](#section-85-conclusion)
+
 ## Chapter 8: Linux Performance Tuning
 
 #### Section 8.1: Performance Monitoring and Analysis

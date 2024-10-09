@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence & Machine Learning Enthusiast
 
-- Email: [following methods](https://dev1virtuoso.github.io/dev1virtuoso.github.io/contact.html)
+- Email: [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md)
 - Phone: +852 6307 8780
 - Location: Hong Kong
 

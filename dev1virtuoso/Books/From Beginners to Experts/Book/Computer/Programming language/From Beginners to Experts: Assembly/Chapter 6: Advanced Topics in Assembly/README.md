@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 6: Advanced Topics in Assembly](#chapter-6-advanced-topics-in-assembly)
+      - [Section 6.1: SIMD and Vectorization](#section-61-simd-and-vectorization)
+      - [Section 6.2: Inline Assembly](#section-62-inline-assembly)
+      - [Section 6.3: Low-Level System Programming](#section-63-low-level-system-programming)
+      - [Section 6.4: Performance Optimization Techniques](#section-64-performance-optimization-techniques)
+      - [Section 6.5: Multi-Threading and Parallel Processing](#section-65-multi-threading-and-parallel-processing)
+      - [Section 6.6: Advanced Assembly Language Examples](#section-66-advanced-assembly-language-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 6: Advanced Topics in Assembly
 
 In this chapter, we will explore advanced topics in assembly language programming, delving into complex concepts, optimization techniques, and advanced features that enhance program performance, scalability, and versatility in low-level programming environments.

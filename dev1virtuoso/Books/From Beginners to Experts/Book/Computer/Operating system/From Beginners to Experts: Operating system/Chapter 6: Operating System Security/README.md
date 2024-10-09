@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 6: Operating System Security](#chapter-6-operating-system-security)
+      - [Section 6.1: Understanding Operating System Security](#section-61-understanding-operating-system-security)
+        - [6.1.1: Security Fundamentals](#611-security-fundamentals)
+        - [6.1.2: Security Layers](#612-security-layers)
+      - [Section 6.2: Security Mechanisms](#section-62-security-mechanisms)
+        - [6.2.1: Authentication](#621-authentication)
+        - [6.2.2: Authorization](#622-authorization)
+      - [Section 6.3: Encryption Techniques](#section-63-encryption-techniques)
+        - [6.3.1: Data Encryption](#631-data-encryption)
+        - [6.3.2: Secure Communication](#632-secure-communication)
+      - [Section 6.4: Security Best Practices](#section-64-security-best-practices)
+        - [6.4.1: Patch Management](#641-patch-management)
+        - [6.4.2: Security Auditing](#642-security-auditing)
+      - [Conclusion](#conclusion)
+
 ## Chapter 6: Operating System Security
 
 Operating system security is paramount for safeguarding system resources, protecting user data, preventing unauthorized access, and mitigating security threats and vulnerabilities that can compromise system integrity and confidentiality. This chapter delves into the principles of operating system security, security mechanisms, access controls, encryption techniques, and best practices for enhancing system security in operating systems.

@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 19: Robotics and Automation](#chapter-19-robotics-and-automation)
+      - [Section 19.1: Introduction to Robotics](#section-191-introduction-to-robotics)
+        - [19.1.1 Robotics Fundamentals](#1911-robotics-fundamentals)
+        - [19.1.2 Types of Robots](#1912-types-of-robots)
+      - [Section 19.2: Industrial Automation](#section-192-industrial-automation)
+        - [19.2.1 Robotic Arms](#1921-robotic-arms)
+        - [19.2.2 Automated Systems](#1922-automated-systems)
+      - [Section 19.3: Robotics in Healthcare](#section-193-robotics-in-healthcare)
+        - [19.3.1 Surgical Robots](#1931-surgical-robots)
+        - [19.3.2 Rehabilitation Robotics](#1932-rehabilitation-robotics)
+      - [Section 19.4: Challenges and Considerations](#section-194-challenges-and-considerations)
+        - [19.4.1 Safety and Ethical Considerations](#1941-safety-and-ethical-considerations)
+        - [19.4.2 Human-Robot Interaction](#1942-human-robot-interaction)
+      - [Section 19.5: Future Trends in Robotics](#section-195-future-trends-in-robotics)
+        - [19.5.1 Collaborative Robotics](#1951-collaborative-robotics)
+        - [19.5.2 Autonomous Robots](#1952-autonomous-robots)
+      - [Section 19.6: Conclusion](#section-196-conclusion)
+
 ## Chapter 19: Robotics and Automation
 
 #### Section 19.1: Introduction to Robotics

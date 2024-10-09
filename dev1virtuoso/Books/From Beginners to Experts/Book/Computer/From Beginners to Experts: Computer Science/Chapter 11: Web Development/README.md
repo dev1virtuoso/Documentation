@@ -1,5 +1,28 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 11: Web Development](#chapter-11-web-development)
+    - [Section 11.1: Introduction to Web Development](#section-111-introduction-to-web-development)
+      - [11.1.1 What is Web Development?](#1111-what-is-web-development)
+      - [11.1.2 Key Components of Web Development](#1112-key-components-of-web-development)
+    - [Section 11.2: Front-End Development](#section-112-front-end-development)
+      - [11.2.1 HTML, CSS, and JavaScript](#1121-html-css-and-javascript)
+      - [11.2.2 Front-End Frameworks](#1122-front-end-frameworks)
+    - [Section 11.3: Back-End Development](#section-113-back-end-development)
+      - [11.3.1 Server-Side Languages](#1131-server-side-languages)
+      - [11.3.2 Database Management](#1132-database-management)
+    - [Section 11.4: Web Development Tools and Technologies](#section-114-web-development-tools-and-technologies)
+      - [11.4.1 Version Control](#1141-version-control)
+      - [11.4.2 Package Managers](#1142-package-managers)
+    - [Section 11.5: Responsive Web Design and Accessibility](#section-115-responsive-web-design-and-accessibility)
+      - [11.5.1 Responsive Web Design](#1151-responsive-web-design)
+      - [11.5.2 Web Accessibility](#1152-web-accessibility)
+    - [Section 11.6: Emerging Trends in Web Development](#section-116-emerging-trends-in-web-development)
+      - [11.6.1 Progressive Web Apps (PWAs)](#1161-progressive-web-apps-pwas)
+      - [11.6.2 Serverless Architecture](#1162-serverless-architecture)
+    - [Section 11.7: Conclusion](#section-117-conclusion)
+
 ## Chapter 11: Web Development
 
 ### Section 11.1: Introduction to Web Development

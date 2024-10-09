@@ -1,5 +1,21 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 1: Introduction to Assembly Language](#chapter-1-introduction-to-assembly-language)
+      - [Section 1.1: What is Assembly Language?](#section-11-what-is-assembly-language)
+      - [Section 1.2: Benefits of Assembly Language Programming](#section-12-benefits-of-assembly-language-programming)
+        - [1.2.1: Efficiency](#121-efficiency)
+        - [1.2.2: Hardware Interaction](#122-hardware-interaction)
+      - [Section 1.3: Basic Concepts in Assembly Language Programming](#section-13-basic-concepts-in-assembly-language-programming)
+        - [1.3.1: Registers](#131-registers)
+        - [1.3.2: Instructions](#132-instructions)
+      - [Section 1.4: Assembly Language Syntax](#section-14-assembly-language-syntax)
+        - [1.4.1: Mnemonics](#141-mnemonics)
+        - [1.4.2: Labels](#142-labels)
+      - [Section 1.5: Assembly Language Programming Examples](#section-15-assembly-language-programming-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 1: Introduction to Assembly Language
 
 Assembly language is a low-level programming language that provides a way to write instructions that a computer's CPU can execute. In this chapter, we will explore the fundamentals of assembly language programming, its structure, syntax, and how it interacts with a computer's hardware at a fundamental level.

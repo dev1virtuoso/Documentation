@@ -1,5 +1,21 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 1: Introduction to Linux](#chapter-1-introduction-to-linux)
+      - [Section 1.1: What is Linux?](#section-11-what-is-linux)
+        - [1.1.1 Linux Kernel](#111-linux-kernel)
+        - [1.1.2 Linux Distributions](#112-linux-distributions)
+      - [Section 1.2: Getting Started with Linux](#section-12-getting-started-with-linux)
+        - [1.2.1 Installation](#121-installation)
+        - [1.2.2 Command-Line Interface (CLI)](#122-command-line-interface-cli)
+      - [Section 1.3: File System and Permissions](#section-13-file-system-and-permissions)
+        - [1.3.1 File System Hierarchy](#131-file-system-hierarchy)
+        - [1.3.2 File Permissions](#132-file-permissions)
+      - [Section 1.4: Essential Linux Commands](#section-14-essential-linux-commands)
+        - [1.4.1 Basic Commands](#141-basic-commands)
+      - [Section 1.5: Conclusion](#section-15-conclusion)
+
 ## Chapter 1: Introduction to Linux
 
 #### Section 1.1: What is Linux?

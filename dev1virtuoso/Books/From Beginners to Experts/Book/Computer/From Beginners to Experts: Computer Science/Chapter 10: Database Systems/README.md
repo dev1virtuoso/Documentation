@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 10: Database Systems](#chapter-10-database-systems)
+    - [Section 10.1: Introduction to Database Systems](#section-101-introduction-to-database-systems)
+      - [10.1.1 What is a Database System?](#1011-what-is-a-database-system)
+      - [10.1.2 Key Components of a Database System](#1012-key-components-of-a-database-system)
+    - [Section 10.2: Relational Database Management Systems (RDBMS)](#section-102-relational-database-management-systems-rdbms)
+      - [10.2.1 Relational Data Model](#1021-relational-data-model)
+      - [10.2.2 Structured Query Language (SQL)](#1022-structured-query-language-sql)
+    - [Section 10.3: Data Modeling and Design](#section-103-data-modeling-and-design)
+      - [10.3.1 Entity-Relationship (ER) Modeling](#1031-entity-relationship-er-modeling)
+      - [10.3.2 Normalization](#1032-normalization)
+    - [Section 10.4: Database Query Optimization](#section-104-database-query-optimization)
+      - [10.4.1 Query Execution Plan](#1041-query-execution-plan)
+      - [10.4.2 Indexing](#1042-indexing)
+    - [Section 10.5: NoSQL and New Database Trends](#section-105-nosql-and-new-database-trends)
+      - [10.5.1 NoSQL Databases](#1051-nosql-databases)
+      - [10.5.2 New Database Trends](#1052-new-database-trends)
+    - [Section 10.6: Conclusion](#section-106-conclusion)
+
 ## Chapter 10: Database Systems
 
 ### Section 10.1: Introduction to Database Systems

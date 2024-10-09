@@ -1,5 +1,28 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 14: Parallel and Distributed Computing](#chapter-14-parallel-and-distributed-computing)
+      - [Section 14.1: Introduction to Parallel and Distributed Computing](#section-141-introduction-to-parallel-and-distributed-computing)
+        - [14.1.1 Understanding Parallel Computing](#1411-understanding-parallel-computing)
+        - [14.1.2 Overview of Distributed Computing](#1412-overview-of-distributed-computing)
+      - [Section 14.2: Parallel Computing Models](#section-142-parallel-computing-models)
+        - [14.2.1 Shared Memory Systems](#1421-shared-memory-systems)
+        - [14.2.2 Distributed Memory Systems](#1422-distributed-memory-systems)
+      - [Section 14.3: Parallel and Distributed Computing Architectures](#section-143-parallel-and-distributed-computing-architectures)
+        - [14.3.1 SIMD and MIMD Architectures](#1431-simd-and-mimd-architectures)
+        - [14.3.2 Cluster Computing](#1432-cluster-computing)
+      - [Section 14.4: Parallel and Distributed Computing Technologies](#section-144-parallel-and-distributed-computing-technologies)
+        - [14.4.1 Message Passing Interface (MPI)](#1441-message-passing-interface-mpi)
+        - [14.4.2 OpenMP](#1442-openmp)
+      - [Section 14.5: Applications of Parallel and Distributed Computing](#section-145-applications-of-parallel-and-distributed-computing)
+        - [14.5.1 Big Data Analytics](#1451-big-data-analytics)
+        - [14.5.2 Scientific Computing](#1452-scientific-computing)
+      - [Section 14.6: Challenges and Future Trends](#section-146-challenges-and-future-trends)
+        - [14.6.1 Scalability and Load Balancing](#1461-scalability-and-load-balancing)
+        - [14.6.2 Edge Computing and IoT](#1462-edge-computing-and-iot)
+      - [Section 14.7: Conclusion](#section-147-conclusion)
+
 ## Chapter 14: Parallel and Distributed Computing
 
 #### Section 14.1: Introduction to Parallel and Distributed Computing

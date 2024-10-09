@@ -1,5 +1,23 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 5: System Administration](#chapter-5-system-administration)
+      - [Section 5.1: Introduction to Linux System Administration](#section-51-introduction-to-linux-system-administration)
+        - [5.1.1 The Role of a System Administrator](#511-the-role-of-a-system-administrator)
+        - [5.1.2 Skills and Knowledge Required](#512-skills-and-knowledge-required)
+      - [Section 5.2: Essential System Administration Tasks](#section-52-essential-system-administration-tasks)
+        - [5.2.1 User and Group Management](#521-user-and-group-management)
+        - [5.2.2 System Monitoring and Performance Tuning](#522-system-monitoring-and-performance-tuning)
+        - [5.2.3 File System Management](#523-file-system-management)
+      - [Section 5.3: Security Practices and Tools](#section-53-security-practices-and-tools)
+        - [5.3.1 Security Best Practices](#531-security-best-practices)
+        - [5.3.2 Security Tools](#532-security-tools)
+      - [Section 5.4: Backup and Recovery Strategies](#section-54-backup-and-recovery-strategies)
+        - [5.4.1 Backup Planning](#541-backup-planning)
+        - [5.4.2 Recovery Procedures](#542-recovery-procedures)
+      - [Section 5.5: Conclusion](#section-55-conclusion)
+
 ## Chapter 5: System Administration
 
 #### Section 5.1: Introduction to Linux System Administration

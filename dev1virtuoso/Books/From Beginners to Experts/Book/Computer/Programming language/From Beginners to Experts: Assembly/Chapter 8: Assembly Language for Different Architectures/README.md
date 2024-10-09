@@ -1,5 +1,17 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 8: Assembly Language for Different Architectures](#chapter-8-assembly-language-for-different-architectures)
+      - [Section 8.1: x86 Architecture](#section-81-x86-architecture)
+      - [Section 8.2: ARM Architecture](#section-82-arm-architecture)
+      - [Section 8.3: MIPS Architecture](#section-83-mips-architecture)
+      - [Section 8.4: PowerPC Architecture](#section-84-powerpc-architecture)
+      - [Section 8.5: RISC-V Architecture](#section-85-risc-v-architecture)
+      - [Section 8.6: Cross-Platform Assembly Programming](#section-86-cross-platform-assembly-programming)
+      - [Section 8.7: Assembly Language for Specific Architectures](#section-87-assembly-language-for-specific-architectures)
+      - [Conclusion](#conclusion)
+
 ## Chapter 8: Assembly Language for Different Architectures
 
 In this chapter, we will explore the adaptation of assembly language programming for various architectures, including different processor families, instruction sets, and system environments. Understanding how assembly language code can be tailored to specific architectures is crucial for developing efficient, portable, and versatile software solutions across diverse computing platforms.

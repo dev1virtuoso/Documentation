@@ -1,5 +1,22 @@
 # From Beginners to Experts: Linux
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 3: Essential Linux Concepts](#chapter-3-essential-linux-concepts)
+      - [Section 3.1: Understanding Linux System Architecture](#section-31-understanding-linux-system-architecture)
+        - [3.1.1 Linux Kernel](#311-linux-kernel)
+        - [3.1.2 User Space and Kernel Space](#312-user-space-and-kernel-space)
+      - [Section 3.2: Linux File System](#section-32-linux-file-system)
+        - [3.2.1 File System Hierarchy](#321-file-system-hierarchy)
+        - [3.2.2 File Permissions](#322-file-permissions)
+      - [Section 3.3: Processes and Process Management](#section-33-processes-and-process-management)
+        - [3.3.1 Processes in Linux](#331-processes-in-linux)
+        - [3.3.2 Process States](#332-process-states)
+      - [Section 3.4: Package Management](#section-34-package-management)
+        - [3.4.1 Package Managers](#341-package-managers)
+        - [3.4.2 Installing and Updating Packages](#342-installing-and-updating-packages)
+      - [Section 3.5: Conclusion](#section-35-conclusion)
+
 ## Chapter 3: Essential Linux Concepts
 
 #### Section 3.1: Understanding Linux System Architecture

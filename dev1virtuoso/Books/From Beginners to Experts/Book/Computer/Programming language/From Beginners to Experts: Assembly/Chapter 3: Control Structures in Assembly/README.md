@@ -1,5 +1,17 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 3: Control Structures in Assembly](#chapter-3-control-structures-in-assembly)
+      - [Section 3.1: Conditional Branching](#section-31-conditional-branching)
+      - [Section 3.2: Unconditional Branching](#section-32-unconditional-branching)
+      - [Section 3.3: Looping Structures](#section-33-looping-structures)
+      - [Section 3.4: Subroutines and Functions](#section-34-subroutines-and-functions)
+      - [Section 3.5: Interrupt Handling](#section-35-interrupt-handling)
+      - [Section 3.6: Error Handling and Exception Mechanisms](#section-36-error-handling-and-exception-mechanisms)
+      - [Section 3.7: Control Structures in Assembly Language Examples](#section-37-control-structures-in-assembly-language-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 3: Control Structures in Assembly
 
 In this chapter, we will explore how control structures are implemented in assembly language programming. Control structures determine the flow of execution within a program, allowing for decision-making, looping, and branching based on certain conditions.

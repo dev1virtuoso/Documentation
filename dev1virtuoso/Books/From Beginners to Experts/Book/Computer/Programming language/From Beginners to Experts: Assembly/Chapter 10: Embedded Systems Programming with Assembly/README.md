@@ -1,5 +1,16 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 10: Embedded Systems Programming with Assembly](#chapter-10-embedded-systems-programming-with-assembly)
+      - [Section 10.1: Introduction to Embedded Systems Programming](#section-101-introduction-to-embedded-systems-programming)
+      - [Section 10.2: Embedded Hardware Architecture](#section-102-embedded-hardware-architecture)
+      - [Section 10.3: Real-Time Programming Considerations](#section-103-real-time-programming-considerations)
+      - [Section 10.4: Peripheral Interfacing and Device Control](#section-104-peripheral-interfacing-and-device-control)
+      - [Section 10.5: Power Management and Energy Efficiency](#section-105-power-management-and-energy-efficiency)
+      - [Section 10.6: Case Study: Assembly Language in IoT Device Firmware](#section-106-case-study-assembly-language-in-iot-device-firmware)
+      - [Conclusion](#conclusion)
+
 ## Chapter 10: Embedded Systems Programming with Assembly
 
 In this chapter, we will delve into the realm of embedded systems programming with assembly language. Embedded systems play a vital role in various industries, including IoT devices, automotive systems, industrial automation, and consumer electronics. Understanding how to program embedded systems using assembly language enables developers to optimize code performance, manage system resources efficiently, and design low-level software solutions tailored for embedded environments.

@@ -1,5 +1,18 @@
 # From Beginners to Experts: Assembly
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 2: Basics of Assembly Language](#chapter-2-basics-of-assembly-language)
+      - [Section 2.1: Data Movement Instructions](#section-21-data-movement-instructions)
+      - [Section 2.2: Arithmetic and Logic Instructions](#section-22-arithmetic-and-logic-instructions)
+      - [Section 2.3: Control Flow Instructions](#section-23-control-flow-instructions)
+      - [Section 2.4: Stack Operations](#section-24-stack-operations)
+      - [Section 2.5: Procedures and Subroutines](#section-25-procedures-and-subroutines)
+      - [Section 2.6: Memory Access and Addressing Modes](#section-26-memory-access-and-addressing-modes)
+      - [Section 2.7: Input/Output Operations](#section-27-inputoutput-operations)
+      - [Section 2.8: Assembly Language Programming Examples](#section-28-assembly-language-programming-examples)
+      - [Conclusion](#conclusion)
+
 ## Chapter 2: Basics of Assembly Language
 
 In this chapter, we will delve deeper into the fundamentals of assembly language programming, covering essential concepts, instructions, and techniques that form the building blocks of low-level programming.

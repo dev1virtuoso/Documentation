@@ -1,5 +1,22 @@
 # From Beginners to Experts: Operating system
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 15: Future Trends in Operating Systems](#chapter-15-future-trends-in-operating-systems)
+      - [Section 15.1: Evolution of Operating Systems](#section-151-evolution-of-operating-systems)
+        - [15.1.1: From Monolithic to Modular Designs](#1511-from-monolithic-to-modular-designs)
+        - [15.1.2: Containerization and Virtualization](#1512-containerization-and-virtualization)
+      - [Section 15.2: Security and Privacy Enhancements](#section-152-security-and-privacy-enhancements)
+        - [15.2.1: Secure Boot and Trusted Execution Environments](#1521-secure-boot-and-trusted-execution-environments)
+        - [15.2.2: Privacy Controls and Data Protection](#1522-privacy-controls-and-data-protection)
+      - [Section 15.3: AI and Machine Learning Integration](#section-153-ai-and-machine-learning-integration)
+        - [15.3.1: Intelligent Resource Management](#1531-intelligent-resource-management)
+        - [15.3.2: Smart Assistants and Automation](#1532-smart-assistants-and-automation)
+      - [Section 15.4: Quantum Computing and Post-Quantum Security](#section-154-quantum-computing-and-post-quantum-security)
+        - [15.4.1: Quantum-Ready Operating Systems](#1541-quantum-ready-operating-systems)
+        - [15.4.2: Post-Quantum Security Measures](#1542-post-quantum-security-measures)
+      - [Conclusion](#conclusion)
+
 ## Chapter 15: Future Trends in Operating Systems
 
 Operating systems play a pivotal role in shaping the computing landscape, providing the foundation for software applications, managing hardware resources, and enabling seamless user interactions. This chapter delves into the emerging trends and future directions in operating system design, highlighting key technologies, challenges, and opportunities that will influence the evolution of OS architectures and functionalities in the years to come.

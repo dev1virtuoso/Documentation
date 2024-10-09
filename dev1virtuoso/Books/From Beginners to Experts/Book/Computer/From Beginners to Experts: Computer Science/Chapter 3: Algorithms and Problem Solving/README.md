@@ -1,5 +1,25 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-content)
+  - [Chapter 3: Algorithms and Problem Solving](#chapter-3-algorithms-and-problem-solving)
+  - [Section 3.1: Understanding Algorithms](#section-31-understanding-algorithms)
+    - [3.1.1 What are Algorithms?](#311-what-are-algorithms)
+    - [3.1.2 Characteristics of Good Algorithms](#312-characteristics-of-good-algorithms)
+      - [3.1.2.1 Correctness](#3121-correctness)
+      - [3.1.2.2 Efficiency](#3122-efficiency)
+    - [3.1.3 Types of Algorithms](#313-types-of-algorithms)
+      - [3.1.3.1 Sorting Algorithms](#3131-sorting-algorithms)
+      - [3.1.3.2 Searching Algorithms](#3132-searching-algorithms)
+  - [Section 3.2: Problem-Solving Strategies](#section-32-problem-solving-strategies)
+    - [3.2.1 Decomposition](#321-decomposition)
+    - [3.2.2 Pattern Recognition](#322-pattern-recognition)
+    - [3.2.3 Abstraction](#323-abstraction)
+  - [Section 3.3: Algorithm Design Techniques](#section-33-algorithm-design-techniques)
+    - [3.3.1 Greedy Algorithms](#331-greedy-algorithms)
+    - [3.3.2 Dynamic Programming](#332-dynamic-programming)
+  - [Section 3.4: Conclusion](#section-34-conclusion)
+
 ## Chapter 3: Algorithms and Problem Solving
 
 ## Section 3.1: Understanding Algorithms

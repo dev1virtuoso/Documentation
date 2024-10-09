@@ -1,5 +1,21 @@
 # From Beginners to Experts: Computer Science
-## Table of Content
+## Table of Contents
+- [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
+  - [Table of Contents](#table-of-contents)
+  - [Chapter 5: Computer Networks and Security](#chapter-5-computer-networks-and-security)
+    - [Section 5.1: Introduction to Computer Networks](#section-51-introduction-to-computer-networks)
+      - [5.1.1 What are Computer Networks?](#511-what-are-computer-networks)
+      - [5.1.2 Types of Computer Networks](#512-types-of-computer-networks)
+    - [Section 5.2: Network Protocols and Communication](#section-52-network-protocols-and-communication)
+      - [5.2.1 TCP/IP Protocol Suite](#521-tcpip-protocol-suite)
+      - [5.2.2 OSI Model](#522-osi-model)
+    - [Section 5.3: Network Security](#section-53-network-security)
+      - [5.3.1 Importance of Network Security](#531-importance-of-network-security)
+      - [5.3.2 Security Measures](#532-security-measures)
+    - [Section 5.4: Cybersecurity Practices](#section-54-cybersecurity-practices)
+      - [5.4.1 Best Practices for Cybersecurity](#541-best-practices-for-cybersecurity)
+    - [Section 5.5: Conclusion](#section-55-conclusion)
+
 ## Chapter 5: Computer Networks and Security
 
 ### Section 5.1: Introduction to Computer Networks
