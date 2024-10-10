@@ -1,5 +1,7 @@
 # From Beginners to Experts: Assembly
+
 ## Table of Contents
+
 - [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
   - [Table of Contents](#table-of-content)
   - [Chapter 12: Reverse Engineering with Assembly](#chapter-12-reverse-engineering-with-assembly)

@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-contents)
   - [Chapter 15: Optimization Techniques in C/C++](#chapter-15-optimization-techniques-in-cc)

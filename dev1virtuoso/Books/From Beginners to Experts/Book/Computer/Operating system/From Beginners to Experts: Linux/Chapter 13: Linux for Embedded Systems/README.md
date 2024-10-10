@@ -1,5 +1,7 @@
 # From Beginners to Experts: Linux
+
 ## Table of Contents
+
 - [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
   - [Table of Contents](#table-of-content)
   - [Chapter 13: Linux for Embedded Systems](#chapter-13-linux-for-embedded-systems)

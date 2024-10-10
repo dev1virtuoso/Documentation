@@ -1,5 +1,7 @@
 # From Beginners to Experts: Linux
+
 ## Table of Contents
+
 - [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
   - [Table of Contents](#table-of-content)
   - [Chapter 6: Advanced Topics in Linux](#chapter-6-advanced-topics-in-linux)

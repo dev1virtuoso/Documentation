@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-contents)
   - [Chapter 2: Getting Started with C/C++](#chapter-2-getting-started-with-cc)

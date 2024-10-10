@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-contents)
   - [Chapter 18: Quantum Computing with C/C++](#chapter-18-quantum-computing-with-cc)

@@ -1,5 +1,7 @@
 # From Beginners to Experts: Assembly
+
 ## Table of Contents
+
 - [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
   - [Table of Contents](#table-of-content)
   - [Chapter 1: Introduction to Assembly Language](#chapter-1-introduction-to-assembly-language)

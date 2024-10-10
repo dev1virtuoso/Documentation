@@ -1,5 +1,7 @@
 # From Beginners to Experts: Assembly
+
 ## Table of Contents
+
 - [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
   - [Table of Contents](#table-of-content)
   - [Chapter 16: Assembly Language for Robotics](#chapter-16-assembly-language-for-robotics)

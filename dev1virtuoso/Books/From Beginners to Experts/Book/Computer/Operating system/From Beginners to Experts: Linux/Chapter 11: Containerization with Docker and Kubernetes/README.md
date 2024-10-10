@@ -1,5 +1,7 @@
 # From Beginners to Experts: Linux
+
 ## Table of Contents
+
 - [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
   - [Table of Contents](#table-of-content)
   - [Chapter 11: Containerization with Docker and Kubernetes](#chapter-11-containerization-with-docker-and-kubernetes)

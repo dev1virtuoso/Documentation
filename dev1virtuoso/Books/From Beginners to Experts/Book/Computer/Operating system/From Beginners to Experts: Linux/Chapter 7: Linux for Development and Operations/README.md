@@ -1,5 +1,7 @@
 # From Beginners to Experts: Linux
+
 ## Table of Contents
+
 - [From Beginners to Experts: Linux](#from-beginners-to-experts-linux)
   - [Table of Contents](#table-of-content)
   - [Chapter 7: Linux for Development and Operations](#chapter-7-linux-for-development-and-operations)

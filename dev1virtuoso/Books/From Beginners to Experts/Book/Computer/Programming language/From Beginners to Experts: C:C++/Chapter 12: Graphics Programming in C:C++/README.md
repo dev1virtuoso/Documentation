@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-contents)
   - [Chapter 12: Graphics Programming in C/C++](#chapter-12-graphics-programming-in-cc)

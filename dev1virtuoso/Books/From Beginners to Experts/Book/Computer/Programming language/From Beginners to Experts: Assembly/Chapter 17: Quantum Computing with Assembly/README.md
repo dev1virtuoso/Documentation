@@ -1,5 +1,7 @@
 # From Beginners to Experts: Assembly
+
 ## Table of Contents
+
 - [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
   - [Table of Contents](#table-of-content)
   - [Chapter 17: Quantum Computing with Assembly](#chapter-17-quantum-computing-with-assembly)

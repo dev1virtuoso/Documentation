@@ -1,5 +1,7 @@
 # From Beginners to Experts: Assembly
+
 ## Table of Contents
+
 - [From Beginners to Experts: Assembly](#from-beginners-to-experts-assembly)
   - [Table of Contents](#table-of-content)
   - [Chapter 3: Control Structures in Assembly](#chapter-3-control-structures-in-assembly)

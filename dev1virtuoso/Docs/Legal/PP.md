@@ -2,7 +2,9 @@
 
 This Privacy Policy describes our policies and procedures regarding the collection, use, and sharing of your personal information. This includes details on how we handle the information you provide to us, how it is utilized, and the protective measures we implement.
 
+
 ## Table of Contents
+
 - [Privacy Policy](#privacy-policy)
   - [Table of Contents](#table-of-content)
   - [1. Privacy as a Fundamental Right](#1-privacy-as-a-fundamental-right)
@@ -81,6 +83,6 @@ If our services involve child users, we include policies on how we protect child
 
 If applicable, we include contact information for regulatory agencies for users to report privacy concerns if necessary.
 
-If you have any inquiries or require further assistance, please don't hesitate to contact us at [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
+If you have any inquiries or require further assistance, please don't hesitate to contact us through [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
 
 Last Updated by Carson Wu on August 31, 2024

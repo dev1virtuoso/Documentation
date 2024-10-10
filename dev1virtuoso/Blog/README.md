@@ -4,7 +4,9 @@
 
 Welcome to my technical blog, where I share updates and insights on my latest projects.
 
+
 ## Table of Contents
+
 
 - Introduction
 - Table of Contents
@@ -25,4 +27,4 @@ Copyright © 2024 Carson Wu. All rights reserved.
 9. The website assumes no responsibility for any loss or damage arising from the use of the website content or access to third-party links.
 10. This copyright statement is subject to change or update at any time. Please check regularly for the latest version.
 
-For inquiries, please contact Carson at [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
+For inquiries, please contact Carson through [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).

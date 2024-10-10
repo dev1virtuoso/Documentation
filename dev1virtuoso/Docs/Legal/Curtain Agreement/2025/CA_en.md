@@ -1,6 +1,8 @@
 # Curtain Agreement
 
+
 ## Table of Contents
+
 - [Curtain Agreement](#curtain-agreement)
   - [Table of Contents](#table-of-contents)
   - [Management framework and principles](#management-framework-and-principles)

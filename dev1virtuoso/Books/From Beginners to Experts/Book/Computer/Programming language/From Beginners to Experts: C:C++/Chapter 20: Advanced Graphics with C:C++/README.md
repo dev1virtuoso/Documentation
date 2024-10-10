@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-content)
     - [Chapter 20: Advanced Graphics with C/C++](#chapter-20-advanced-graphics-with-cc)

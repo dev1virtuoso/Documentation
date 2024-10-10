@@ -1,5 +1,7 @@
 # From Beginners to Experts: Computer Science
+
 ## Table of Contents
+
 - [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
   - [Table of Contents](#table-of-content)
   - [Chapter 3: Algorithms and Problem Solving](#chapter-3-algorithms-and-problem-solving)

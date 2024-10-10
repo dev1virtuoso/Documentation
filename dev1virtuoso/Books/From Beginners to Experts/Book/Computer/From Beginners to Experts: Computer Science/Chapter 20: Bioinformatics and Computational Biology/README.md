@@ -1,5 +1,7 @@
 # From Beginners to Experts: Computer Science
+
 ## Table of Contents
+
 - [From Beginners to Experts: Computer Science](#from-beginners-to-experts-computer-science)
   - [Table of Contents](#table-of-contents)
   - [Chapter 20: Bioinformatics and Computational Biology](#chapter-20-bioinformatics-and-computational-biology)

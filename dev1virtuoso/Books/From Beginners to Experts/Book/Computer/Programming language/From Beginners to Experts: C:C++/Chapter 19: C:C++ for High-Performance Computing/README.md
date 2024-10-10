@@ -1,5 +1,7 @@
 # From Beginners to Experts: C/C++
+
 ## Table of Contents
+
 - [From Beginners to Experts: C/C++](#from-beginners-to-experts-cc)
   - [Table of Contents](#table-of-content)
     - [Chapter 19: C/C++ for High-Performance Computing](#chapter-19-cc-for-high-performance-computing)

@@ -1,5 +1,7 @@
 # From Beginners to Experts: Operating system
+
 ## Table of Contents
+
 - [From Beginners to Experts: Operating system](#from-beginners-to-experts-operating-system)
   - [Table of Contents](#table-of-contents)
   - [Chapter 20: Ethical and Legal Aspects of Operating Systems](#chapter-20-ethical-and-legal-aspects-of-operating-systems)
