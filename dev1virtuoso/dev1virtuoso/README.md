@@ -11,13 +11,14 @@
 
 - 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer-Vision/Lane-Keeping%20and%20Obstacle-Avoidance%20System)
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/dev1virtuoso) and [my website](https://carson1125.github.io/Website/carson1125/)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/dev1virtuoso)
 
-- 📄 Know about my experiences on [my website](https://carson1125.github.io/Website/carson1125/carson1125/)
+- 📄 Know about my experiences at [my GitHub](https://github.com/dev1virtuoso)
 
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
+
 Feel free to reach out to me through the [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
 
 <h3 align="left">Languages and Tools:</h3>
