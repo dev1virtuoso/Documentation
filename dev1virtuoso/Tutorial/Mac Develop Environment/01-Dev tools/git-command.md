@@ -8,7 +8,7 @@
   $ git config --global user.email "youremail@email.com"
   ```
 
-## Repository Initialization
+## Repository forInitialization
 
 - Initialize a new $ git repository:
   ```
