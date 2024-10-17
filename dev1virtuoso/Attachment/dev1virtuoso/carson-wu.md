@@ -1,6 +1,6 @@
-## Carson Wu
+# Carson Wu
 
-### About Me
+## About Me
 
 Software development is a creative craft, and I see myself as a masterful artist, weaving brilliance with every stroke of code. - Carson Wu, the Extraordinary Developer.
 
@@ -18,28 +18,7 @@ As I embark on my journey as a world-class developer specializing in AI and ML, 
 
 If you are seeking a young, talented enthusiast in the realms of AI and ML to contribute to your projects, I would be thrilled to collaborate with you. Together, let us paint a future where the possibilities of AI and ML are fully realized, and where brilliance radiates from every line of code.
 
-### About-Me-pr
-
-| Name | Carson Wu |
-| --- | --- |
-| Chinese name | 胡梓燊 |
-| Age |  |
-| Born | Wu Tsz San Carson<br>25 November 2010<br>Hong Kong |
-| Epistemology of Love | Romantic view of love: This view of love emphasizes romance, passion, and attraction. People believe that love is an intense emotional experience and value romantic expressions and sparks of love.<br> Sacred view of love: This view of love considers love as a sacred force that transcends personal feelings and worldly factors. People believe that love is a sacred connection and value the union of spirit and emotions. |
-| Favorite actor | *Glen Thomas Powell Jr.* |
-| Favorite botanical | *Lavandula stoechas* |
-| Favorite color | **Dark Purple**, **HEX**: `872B8D`, **RGB**: `rgb(135, 43, 141)`, **HSL**: `hsl(292, 53%, 37%)` |
-| Favorite creature | *Felis catus domesticus (The Ragdoll)* |
-| Fields | Computer Science |
-| Gender | Male |
-| MBTI | ENFJ-A |
-| Pronouns | He, him, his |
-| Religion | Atheism |
-| Sexual orientation | Bisexuality, demisexuality |
-| Signature | ![Signature of Carson Wu](images/Sign.png) |
-| Zodiac Sign | Sagittarius |
-
-### Contact
+## Contact
 
 - [Discord](https://discordapp.com/users/893165893469732935)
 - [Email](mailto:carson.developer1125@gmail.com)
@@ -60,7 +39,7 @@ If you are seeking a young, talented enthusiast in the realms of AI and ML to co
 - [WhatsApp](https://wa.me/63078780)
 - [X(Formerly Twitter)](https://x.com/dev1virtuoso/)
 
-### Donate
+## Donate
 
 - [Buy me a coffee](https://www.buymeacoffee.com/dev1virtuoso)
 - [GitHub Sponsors profile](https://github.com/sponsors/dev1virtuoso/)
@@ -77,3 +56,24 @@ Welcome to dev1virtuoso's Sponsors Profile! 🌟
 
 **Let's Connect**  
 📧 Reach out at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com) to collaborate or just to say hello! Let's innovate together! 🌟
+
+## Personal Information Table
+
+| Name | Carson Wu |
+| --- | --- |
+| Chinese name | 胡梓燊 |
+| Age |  |
+| Born | Wu Tsz San Carson<br>25 November 2010<br>Hong Kong |
+| Epistemology of Love | Romantic view of love: This view of love emphasizes romance, passion, and attraction. People believe that love is an intense emotional experience and value romantic expressions and sparks of love.<br> Sacred view of love: This view of love considers love as a sacred force that transcends personal feelings and worldly factors. People believe that love is a sacred connection and value the union of spirit and emotions. |
+| Favorite actor | *Glen Thomas Powell Jr.* |
+| Favorite botanical | *Lavandula stoechas* |
+| Favorite color | **Dark Purple**, **HEX**: `872B8D`, **RGB**: `rgb(135, 43, 141)`, **HSL**: `hsl(292, 53%, 37%)` |
+| Favorite creature | *Felis catus domesticus (The Ragdoll)* |
+| Fields | Computer Science |
+| Gender | Male |
+| MBTI | ENFJ-A |
+| Pronouns | He, him, his |
+| Religion | Atheism |
+| Sexual orientation | Bisexuality, demisexuality |
+| Signature | ![Signature of Carson Wu](images/Sign.png) |
+| Zodiac Sign | Sagittarius |
