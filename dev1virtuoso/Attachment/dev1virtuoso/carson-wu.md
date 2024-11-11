@@ -72,6 +72,7 @@ Welcome to dev1virtuoso's Sponsors Profile! 🌟
 | Fields | Computer Science |
 | Gender | Male |
 | MBTI | ENFJ-A |
+| Political ideologies | Left-wing politics |
 | Pronouns | He, him, his |
 | Religion | Atheism |
 | Sexual orientation | Bisexuality, demisexuality |
