@@ -2,7 +2,7 @@
 
 **Company Name:** Lavender Technologies  
 **Founded:** 2010  
-**Headquarters:** Silicon Valley, USA
+**Location:** Hong Kong
 
 ## About Lavender Technologies
 Lavender Technologies, established in 2010 in the heart of Silicon Valley, is a renowned technology company at the forefront of innovation in consumer electronics and smart devices. With a relentless commitment to excellence and a passion for pushing technological boundaries, Lavender Technologies has solidified its position as a trailblazer in the tech industry.
