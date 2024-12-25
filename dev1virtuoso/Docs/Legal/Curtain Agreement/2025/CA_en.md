@@ -371,7 +371,7 @@ According to this clause, the execution of this agreement will comply with the p
 
 ## Copyright Notice
 
-Copyright © 2024 Carson. all rights reserved.
+Copyright (c) 2024 Carson. all rights reserved.
 
 1. All content in this agreement, including but not limited to text, images, videos, audio, scripts and other materials, are protected by copyright laws. These contents are provided by copyright owners or legally authorized persons and are protected by international copyright laws and related laws.
 
