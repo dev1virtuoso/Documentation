@@ -91,30 +91,30 @@ To exercise these rights or seek further clarification on our data handling prac
 ## 11. Third-Party Service Usage:
 
 Explicitly list all third-party services used in the documentation, including the following detailed information:
-- **Service Names and Purposes**: Provide the specific names of each third-party service along with a detailed explanation of their purposes within the system.
-- **Data Handling Practices**: Describe in detail how each third-party service handles user data, including data collection methods, storage practices, data usage, and sharing protocols.
-- **Privacy Policy Links**: Ensure that direct links to the privacy policy pages of each third-party service are included for easy access by users.
+- **Service Names and Purposes:** Provide the specific names of each third-party service along with a detailed explanation of their purposes within the system.
+- **Data Handling Practices:** Describe in detail how each third-party service handles user data, including data collection methods, storage practices, data usage, and sharing protocols.
+- **Privacy Policy Links:** Ensure that direct links to the privacy policy pages of each third-party service are included for easy access by users.
 
 ## 12. Data Transfer Details:
 
 Enhance transparency by providing comprehensive information on data transfer practices:
-- **Transfer Mechanisms**: Explain the specific mechanisms and protocols used for transferring data between different systems, both internally and externally.
-- **Storage Practices**: Detail the precise locations where data is stored, the methods used for storage, the retention periods, and the security measures in place to protect stored data.
-- **Security Measures**: Outline the security measures implemented during data transmission, such as encryption standards, access controls, and monitoring systems.
+- **Transfer Mechanisms:** Explain the specific mechanisms and protocols used for transferring data between different systems, both internally and externally.
+- **Storage Practices:** Detail the precise locations where data is stored, the methods used for storage, the retention periods, and the security measures in place to protect stored data.
+- **Security Measures:** Outline the security measures implemented during data transmission, such as encryption standards, access controls, and monitoring systems.
 
 ## 13. Children's Privacy Protection:
 
 Implement robust measures to safeguard children's privacy if services involve child users:
-- **Special Policies**: Develop and clearly outline policies specifically designed to protect children's privacy rights and ensure compliance with relevant regulations.
-- **Parental Consent**: Establish procedures to obtain explicit parental consent before collecting any data from children, including information on how parents can review or revoke consent.
-- **Privacy Protection Measures**: Implement stringent privacy protection measures such as pseudonymization, age-appropriate content filtering, and limited data collection to protect children's privacy.
+- **Special Policies:** Develop and clearly outline policies specifically designed to protect children's privacy rights and ensure compliance with relevant regulations.
+- **Parental Consent:** Establish procedures to obtain explicit parental consent before collecting any data from children, including information on how parents can review or revoke consent.
+- **Privacy Protection Measures:** Implement stringent privacy protection measures such as pseudonymization, age-appropriate content filtering, and limited data collection to protect children's privacy.
 
 ## 14. Regulatory Information:
 
 Provide detailed regulatory information and contact details for effective user recourse:
-- **Regulatory Agency Contact Information**: Include specific contact details for relevant regulatory agencies, including names, addresses, phone numbers, and email addresses.
-- **Reporting Channels**: Clearly outline the procedures for users to report privacy concerns or data breaches, including any online reporting forms or hotlines available.
-- **Legal Compliance**: Specify the legal frameworks and regulations that the services adhere to, along with information on how users can verify compliance and seek assistance from regulatory authorities.
+- **Regulatory Agency Contact Information:** Include specific contact details for relevant regulatory agencies, including names, addresses, phone numbers, and email addresses.
+- **Reporting Channels:** Clearly outline the procedures for users to report privacy concerns or data breaches, including any online reporting forms or hotlines available.
+- **Legal Compliance:** Specify the legal frameworks and regulations that the services adhere to, along with information on how users can verify compliance and seek assistance from regulatory authorities.
 
 For further assistance or inquiries regarding these aspects, it is recommended to reach out to Carson Wu through the provided [contact methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
 
