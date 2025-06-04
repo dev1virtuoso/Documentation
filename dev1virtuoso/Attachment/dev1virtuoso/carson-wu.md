@@ -56,25 +56,3 @@ Welcome to dev1virtuoso's Sponsors Profile! 🌟
 
 **Let's Connect**  
 📧 Reach out at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com) to collaborate or just to say hello! Let's innovate together! 🌟
-
-## Personal Information Table
-
-| Name | Carson Wu |
-| --- | --- |
-| Chinese name | 胡梓燊 |
-| Age |  |
-| Born | Wu Tsz San Carson<br>25 November 2010<br>Hong Kong |
-| Epistemology of Love | Romantic view of love: This view of love emphasizes romance, passion, and attraction. People believe that love is an intense emotional experience and value romantic expressions and sparks of love.<br> Sacred view of love: This view of love considers love as a sacred force that transcends personal feelings and worldly factors. People believe that love is a sacred connection and value the union of spirit and emotions. |
-| Favorite actor | *Glen Thomas Powell Jr.* |
-| Favorite botanical | *Lavandula stoechas* |
-| Favorite color | **Dark Purple**, **HEX:** `872B8D`, **RGB:** `rgb(135, 43, 141)`, **HSL:** `hsl(292, 53%, 37%)` |
-| Favorite creature | *Felis catus domesticus (The Ragdoll)* |
-| Fields | Computer Science |
-| Gender | Male |
-| MBTI | ENFJ-A |
-| Political ideologies | Left-wing politics |
-| Pronouns | He, him, his |
-| Religion | Atheism |
-| Sexual orientation | Bisexuality, demisexuality |
-| Signature | ![Signature of Carson Wu](images/Sign.png) |
-| Zodiac Sign | Sagittarius |
