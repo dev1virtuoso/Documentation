@@ -13,6 +13,7 @@ On the 10th of each month, I release updates for my product. Typically, we use t
 
 ## General
 
+- **Topic:** Male Name(A-Z)
 - **September 2024:** Alexander
 - **October 2024:** Bartholomew
 - **November 2024:** Christopher
@@ -42,6 +43,7 @@ On the 10th of each month, I release updates for my product. Typically, we use t
 
 ## Backup
 
+- **Topic:** Female Name(Z-A)
 - **September 2024:** Zoe
 - **October 2024:** Yvonne
 - **November 2024:** Xena
