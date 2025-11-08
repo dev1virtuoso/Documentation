@@ -69,7 +69,7 @@
     - [tictactoe.py](https://github.com/dev1virtuoso/Games/blob/main/Simple%20Games/tictactoe.py)
 - [Machine-Learning](https://github.com/dev1virtuoso/Machine-Learning)
   - [Computer Vision](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision)
-    - [Biometric Robotics and Artificial Intelligence Network (BRAIN)](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/BRAIN)
+    - [Biometric Robotics and Artificial Intelligence Network (B.R.A.I.N.)](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/B.R.A.I.N.)
     - [Drugs](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/Drugs)
     - [Facial Expression Classifier (FERD)](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/FERD)
     - [Fruit Classifier](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/Fruit%20Classifier)
