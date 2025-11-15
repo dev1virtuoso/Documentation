@@ -116,6 +116,6 @@ Provide detailed regulatory information and contact details for effective user r
 - **Reporting Channels:** Clearly outline the procedures for users to report privacy concerns or data breaches, including any online reporting forms or hotlines available.
 - **Legal Compliance:** Specify the legal frameworks and regulations that the services adhere to, along with information on how users can verify compliance and seek assistance from regulatory authorities.
 
-For further assistance or inquiries regarding these aspects, it is recommended to reach out to Carson Wu through the provided [contact methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
+For further assistance or inquiries regarding these aspects, it is recommended to reach out to Carson Wu through the provided [contact methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md#Contact).
 
 **Last Updated by Carson Wu on November 2, 2024**

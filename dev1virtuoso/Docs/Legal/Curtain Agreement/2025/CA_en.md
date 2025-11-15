@@ -393,7 +393,7 @@ Copyright (c) 2024 Carson. all rights reserved.
 
 10. This copyright statement may be changed or updated at any time without prior notice. We recommend that you check the latest version regularly.
 
-If you have any questions about the copyright statement, please contact Carson: [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md)
+If you have any questions about the copyright statement, please contact Carson: [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md#Contact)
 
 ## Supplementary Provisions
 

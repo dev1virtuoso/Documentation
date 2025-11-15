@@ -11,7 +11,7 @@
 9. This website is not liable for any loss or damage incurred from the use of the content on this website or the access of third-party links.
 10. This copyright notice is subject to change or update at any time. Please check the latest version regularly.
 
-For inquiries, please contact Carson: [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md)
+For inquiries, please contact Carson: [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md#Contact)
 
 ## The MIT License
 

@@ -252,7 +252,7 @@ While our products are accessible globally, not all features, products, or servi
    - Any opinions or feedback you provide to us are considered non-confidential and may be used by us without any obligation to you.
 
 9. **Contact Information**
-   - For any inquiries or concerns, please reach out to Carson Wu through the provided [contact methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
+   - For any inquiries or concerns, please reach out to Carson Wu through the provided [contact methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md#Contact).
 
 10. **Content Updates**
     - The content provided in our products is subject to updates and revisions without prior notice.
