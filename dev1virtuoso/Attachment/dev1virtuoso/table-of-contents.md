@@ -99,7 +99,7 @@
     - [ADA](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Oureyes-ML/ADA)
     - [KRISTY](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Oureyes-ML/KRISTY)
   - [Robotic](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Robotic)
-    - [Hercules Project](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Robotic/Hercules%20Project)
+    - [Heracles Project](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Robotic/Heracles%20Project)
 - [MakeCode-Project](https://github.com/dev1virtuoso/MakeCode-Project)
   - [keyword_trigger_mode](https://github.com/dev1virtuoso/MakeCode-Project/tree/main/keyword_trigger_mode)
   - [kristy-v_1](https://github.com/dev1virtuoso/MakeCode-Project/tree/main/kristy-v_1)

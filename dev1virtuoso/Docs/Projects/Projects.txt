@@ -8171,10 +8171,10 @@ dev1virtuoso
 │   │   │   │       └── README.md
 │   │   │   ├── README.md
 │   │   │   ├── Robotic
-│   │   │   │   └── Hercules Project
+│   │   │   │   └── Heracles Project
 │   │   │   │       └── Blueprint
 │   │   │   │           └── v2
-│   │   │   │               └── Hercules1_0.pdf
+│   │   │   │               └── Heracles1_0.pdf
 │   │   │   ├── RULES.md
 │   │   │   └── SECURITY.md
 │   │   ├── MakeCode-Project
@@ -12253,7 +12253,7 @@ dev1virtuoso
 │   │       └── KRISTY.py
 │   ├── README.md
 │   ├── Robotic
-│   │   └── Hercules Project
+│   │   └── Heracles Project
 │   │       ├── main.py
 │   │       └── module
 │   │           └── dance
