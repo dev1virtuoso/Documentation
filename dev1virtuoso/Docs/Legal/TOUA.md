@@ -58,9 +58,9 @@ A paid commercial license is required **only if both** conditions are met:
 (b) The final model or service using the Works is closed-source or offered on a paid/subscription basis
 
 Rates (applied only to revenue exceeding USD 1,000,000):
-- USD 1M – 10M → 5% royalty  
-- USD 10M – 100M → 8% royalty  
-- Above USD 100M → 12% royalty  
+- USD 1M – 10M -> 5% royalty  
+- USD 10M – 100M -> 8% royalty  
+- Above USD 100M -> 12% royalty  
 
 Payment due within 30 days after each calendar month, accompanied by transparent revenue reporting. Late payment accrues 1% per month interest.
 
