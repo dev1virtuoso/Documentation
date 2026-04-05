@@ -46,16 +46,16 @@ If you are seeking a young, talented enthusiast in the realms of AI and ML to co
 - [Buy me a coffee](https://www.buymeacoffee.com/dev1virtuoso)
 - [GitHub Sponsors profile](https://github.com/sponsors/dev1virtuoso/)
 
-Welcome to dev1virtuoso's Sponsors Profile! 🌟  
+Welcome to dev1virtuoso's Sponsors Profile!
 
 **About Me**  
-👨‍💻 I'm dev1virtuoso, a software developer on a mission to craft innovative solutions with every line of code.
+I'm dev1virtuoso, a software developer on a mission to craft innovative solutions with every line of code.
 
 **My Vision**  
-🎨 Software development is my canvas, and each code snippet is a stroke of brilliance. Together, let's shape a future where technology empowers change and progress.
+Software development is my canvas, and each code snippet is a stroke of brilliance. Together, let's shape a future where technology empowers change and progress.
 
 **Your Support**  
-🚀 Your sponsorship fuels my creative journey. Join me in building a tomorrow filled with endless possibilities through technology!
+Your sponsorship fuels my creative journey. Join me in building a tomorrow filled with endless possibilities through technology!
 
 **Let's Connect**  
-📧 Reach out at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com) to collaborate or just to say hello! Let's innovate together! 🌟
+Reach out at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com) to collaborate or just to say hello! Let's innovate together!
