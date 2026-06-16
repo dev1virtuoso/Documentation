@@ -56,4 +56,3 @@ $ brew info --json=v1 package_name
 ```bash
 $ brew uninstall package_name
 ```
-````
