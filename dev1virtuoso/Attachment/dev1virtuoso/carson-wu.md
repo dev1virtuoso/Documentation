@@ -22,20 +22,8 @@ If you are seeking a young, talented enthusiast in the realms of AI and ML to co
 
 - [Discord](https://discordapp.com/users/893165893469732935)
 - [Email](mailto:carson.developer1125@gmail.com)
-- [Facebook](https://www.facebook.com/apple.we.98/)
 - [GitHub](https://github.com/dev1virtuoso)
-- [Instagram](https://instagram.com/dev1virtuoso)
-- KakaoTalk: Carson1125
-- [Viber](viber://add?number=63078780)
-- [LINE](https://line.me/ti/p/k4_I_vkqFZ)
-- [LinkedIn](https://www.linkedin.com/in/carson-wu-34a615325/)
-- [Linktree](https://linktr.ee/carsonwe)
-- [ORCID](https://orcid.org/0009-0004-2238-8912)
-- Phone: +852 6307 8780
-- [Reddit](https://www.reddit.com/user/carson_we/)
-- [Signal](https://signal.me/#eu/os05Q0OzC3s1NRRYvDNmobxTzCq1SPfX0ReOgDSQQbju04OeyaRG3rHClOwaf_m2)
 - [Telegram](https://telegram.me/dev1virtuoso)
-- [Threads](https://www.threads.net/@dev1virtuoso)
 - [WhatsApp](https://wa.me/63078780)
 - [X(Formerly Twitter)](https://x.com/dev1virtuoso/)
 
