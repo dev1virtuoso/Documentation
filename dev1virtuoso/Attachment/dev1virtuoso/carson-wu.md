@@ -27,8 +27,6 @@ If you are seeking a young, talented enthusiast in the realms of AI and ML to co
 - [WhatsApp](https://wa.me/63078780)
 - [X(Formerly Twitter)](https://x.com/dev1virtuoso/)
 
-- I’m also one of the authors of [robotech.hk](robotech.hk).
-
 ## Donate
 
 - [Buy me a coffee](https://www.buymeacoffee.com/dev1virtuoso)
